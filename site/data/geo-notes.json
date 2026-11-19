@@ -1,0 +1,57 @@
+{
+  "LOC003": [
+    {
+      "target_id": "LOC003",
+      "name": "松江府",
+      "operation": "append_review_proposal",
+      "before_sha256": "2ea4e4fadd3304383b304e90072d957e6d28b6b92493df7b82cbc30d76ebd658",
+      "proposed_fact": "正德松江府志有关当地种棉的记载及明代布匹赋役线索。",
+      "period": "明代开局前证据；1628实际状态待核",
+      "sources": [
+        {
+          "title": "褚半农：略论旧志中物产记述及其价值",
+          "url": "https://dfz.cq.gov.cn/fzyd/llyj/202311/t20231102_12509830.html",
+          "locator": "正文棉花段，引正德《松江府志》卷五、弘治《上海志》卷三；原叶未验",
+          "group": "地方志转引"
+        },
+        {
+          "title": "故宫博物院网站论文：明清宫廷与江南衣食",
+          "url": "https://www.dpm.org.cn/Uploads/File/2022/03/09/u622821ca82b4e.pdf",
+          "locator": "印刷页039，注2、4、6、7、8；仅检索摘录，原文未验",
+          "group": "赋役文献线索"
+        },
+        {
+          "title": "徐汇区档案馆：探宝徐汇记忆｜棉纺织技术哪家强",
+          "url": "https://www.xuhui.gov.cn/zfjg_qzfbm_daj_bmdt/20240802/541520.html",
+          "locator": "2024-07-25，松江府棉布业段；未标史料底本",
+          "group": "现代地方史综述"
+        }
+      ],
+      "status": "provisional_not_strict",
+      "scope": "地方志卷次已定位，奏疏原文及具体时间未查；不录入面积、税率、出口量。",
+      "game_proposal": "松江作为棉业区域加成候选，不设确定产量。",
+      "existing_links": [
+        "P003",
+        "B04",
+        "ADM-R02"
+      ],
+      "proposed_related_ids": [
+        "B04",
+        "RES-009"
+      ],
+      "new_links": [],
+      "package": "T002",
+      "integration_status": "独立旁注，未核验",
+      "additional_leads": [
+        {
+          "title": "松江故事",
+          "url": "https://www.songjiang.gov.cn/sjsz/sjdfls/sjgs/files/basic-html/page155.html",
+          "locator": "印刷页147，正德《松江府志》引文段",
+          "scope": "地方政府网站所载地方史转引，描述城乡纺织及纱与棉交换；未核原志，不独立于同一地方志证据链。",
+          "status": "provisional_not_strict",
+          "period": "正德年间记述，1628延续情况待核"
+        }
+      ]
+    }
+  ]
+}

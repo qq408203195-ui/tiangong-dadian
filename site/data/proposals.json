@@ -1,0 +1,159 @@
+[
+  {
+    "target_existing_id": "B03",
+    "name": "传统水力与木工",
+    "action": "review_technology_availability",
+    "finding": "该节点标记T0且“本地已有（地区调查确认）”，但不应推出所有领地开局均有水磨或可建设水磨",
+    "recommendation": "拆分历史技术存在性、领地调查、施工条件三层；不改变原前置",
+    "related_existing_ids": [
+      "U-B03-01",
+      "M02",
+      "PR36"
+    ],
+    "source": "T006",
+    "verification": "research_proposal_not_new_historical_verification",
+    "applied_to_entity": false
+  },
+  {
+    "target_existing_id": "PR36",
+    "name": "机械磨坊",
+    "action": "propose_parallel_recipe",
+    "finding": "现有生产配方需要A09(T4)，而B03(T0)对应传统水力技术，若PR36为唯一磨粮途径则形成时代错置",
+    "recommendation": "保留PR36为后期机械化加工配方；新增传统水磨配方作为候选，先不分配ID、产能或原料数值；需要地点水文调查、磨石、木构及维护",
+    "related_existing_ids": [
+      "A09",
+      "B03",
+      "U-B03-01",
+      "RES-024",
+      "RES-002"
+    ],
+    "source": "T006",
+    "verification": "research_proposal_not_new_historical_verification",
+    "applied_to_entity": false
+  },
+  {
+    "target_existing_id": "FAC-048",
+    "name": "食品坊",
+    "action": "review_facility_semantics",
+    "finding": "设施最早关联T2节点C03，不能直接作为T0传统水磨的历史设施证明",
+    "recommendation": "区分传统磨坊/碓坊与后期食品坊的设施类别；新增候选设施不分配ID；检验C03关联与配方可建造性",
+    "related_existing_ids": [
+      "B03",
+      "A09",
+      "PR36"
+    ],
+    "source": "T006",
+    "verification": "research_proposal_not_new_historical_verification",
+    "applied_to_entity": false
+  },
+  {
+    "target_existing_id": "BK002",
+    "name": "农政全书",
+    "action": "preserve_future_publication_gate",
+    "finding": "数据库date=1639，opening_year_audit标记开局后；不得把1639刊本当作1628年可获得的成书",
+    "recommendation": "保持刊行事件1639开局后隔离；将徐光启生前农学实践与后出刊本区分；刊行年代尚须独立原始文献复核",
+    "related_existing_ids": [
+      "EV008",
+      "P003"
+    ],
+    "source": "T006",
+    "verification": "research_proposal_not_new_historical_verification",
+    "applied_to_entity": false
+  },
+  {
+    "target_existing_id": null,
+    "candidate_name": "历史唯物主义",
+    "category": "思潮志",
+    "time_boundary": "19世纪形成；1628年仅能由穿越者引入",
+    "game_prerequisites_text_only": "社会调查、识字教育",
+    "classification": "历史理论/穿越推演",
+    "verification": "not_verified_no_historical_claim_promoted",
+    "candidate_id": null,
+    "applied_to_entity": false,
+    "possible_name_matches": []
+  },
+  {
+    "target_existing_id": null,
+    "candidate_name": "群众路线",
+    "category": "思潮志",
+    "time_boundary": "20世纪中国革命实践形成；1628年穿越知识",
+    "game_prerequisites_text_only": "基层调查、反馈机制",
+    "classification": "历史理论/穿越推演",
+    "verification": "not_verified_no_historical_claim_promoted",
+    "candidate_id": null,
+    "applied_to_entity": false,
+    "possible_name_matches": []
+  },
+  {
+    "target_existing_id": null,
+    "candidate_name": "民主集中制",
+    "category": "政制志",
+    "time_boundary": "近现代政治组织原则；1628年穿越知识",
+    "game_prerequisites_text_only": "议事组织、纪律和监督",
+    "classification": "历史理论/穿越推演",
+    "verification": "not_verified_no_historical_claim_promoted",
+    "candidate_id": null,
+    "applied_to_entity": false,
+    "possible_name_matches": []
+  },
+  {
+    "target_existing_id": null,
+    "candidate_name": "军队政治工作",
+    "category": "兵制志",
+    "time_boundary": "现代组织实践；1628年穿越推演",
+    "game_prerequisites_text_only": "识字教育、基层军官、军纪",
+    "classification": "穿越推演",
+    "verification": "not_verified_no_historical_claim_promoted",
+    "candidate_id": null,
+    "applied_to_entity": false,
+    "possible_name_matches": []
+  },
+  {
+    "target_existing_id": null,
+    "candidate_name": "政治委员制度",
+    "category": "兵制志",
+    "time_boundary": "现代军事制度；1628年穿越推演",
+    "game_prerequisites_text_only": "军队政治工作、组织干部",
+    "classification": "穿越推演",
+    "verification": "not_verified_no_historical_claim_promoted",
+    "candidate_id": null,
+    "applied_to_entity": false,
+    "possible_name_matches": []
+  },
+  {
+    "target_existing_id": null,
+    "candidate_name": "农业合作社",
+    "category": "食货志",
+    "time_boundary": "现代制度形式；明末互助组织不可直接等同",
+    "game_prerequisites_text_only": "土地关系调查、契约和组织能力",
+    "classification": "穿越推演",
+    "verification": "not_verified_no_historical_claim_promoted",
+    "candidate_id": null,
+    "applied_to_entity": false,
+    "possible_name_matches": []
+  },
+  {
+    "target_existing_id": null,
+    "candidate_name": "计划经济",
+    "category": "食货志",
+    "time_boundary": "现代经济制度；1628年不作为历史已有",
+    "game_prerequisites_text_only": "统计、交通、行政和财政",
+    "classification": "穿越推演",
+    "verification": "not_verified_no_historical_claim_promoted",
+    "candidate_id": null,
+    "applied_to_entity": false,
+    "possible_name_matches": []
+  },
+  {
+    "target_existing_id": null,
+    "candidate_name": "基层代表会议",
+    "category": "政制志",
+    "time_boundary": "现代制度移植候选；不得等同明代乡约",
+    "game_prerequisites_text_only": "地方组织、信息反馈",
+    "classification": "穿越推演",
+    "verification": "not_verified_no_historical_claim_promoted",
+    "candidate_id": null,
+    "applied_to_entity": false,
+    "possible_name_matches": []
+  }
+]

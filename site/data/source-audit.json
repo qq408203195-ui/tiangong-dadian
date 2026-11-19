@@ -1,0 +1,46 @@
+{
+  "base_version": "0.2.39",
+  "version": "0.2.40",
+  "entries": 2476,
+  "geography": 1556,
+  "forward_links": 5372,
+  "duplicate_ids": 0,
+  "broken_forward_links": [],
+  "broken_forward_links_count": 0,
+  "blank_names": 0,
+  "missing_date_fields": 110,
+  "existing_entity_changes": 0,
+  "t006_suggestions": 4,
+  "ideology_candidates": 8,
+  "new_verified_historical_facts": 0,
+  "t006_report": {
+    "baseline": "V0.2.39",
+    "baseline_database_sha256": "8d86fdca584da5474d288b97ea2a105d154b960ed01feb50516372db81dbd631",
+    "entries": 2476,
+    "unique_ids": 2476,
+    "duplicate_ids": {},
+    "blank_names": [],
+    "forward_links": 5372,
+    "broken_forward_links": [],
+    "geography_count": 1556,
+    "candidate_count": 4,
+    "candidate_target_ids_exist": true,
+    "candidate_related_ids_exist": true,
+    "tech_prerequisite_issues": [
+      {
+        "type": "missing_tech_prerequisite",
+        "id": "H06",
+        "target": "进口显微镜",
+        "field": "any"
+      }
+    ],
+    "tech_prerequisite_issue_count": 1,
+    "new_ids_assigned": 0,
+    "strict_new_double_source_verified_facts": 0,
+    "historical_evidence_status": "未开展新的原件双源史实核验；历史存在性仅引用既有研究，不能重复计数",
+    "database_modified": false
+  },
+  "time_validation": "not individually verified",
+  "candidate_ids_assigned": 0,
+  "source_validation": "not performed; historical claims not promoted"
+}
