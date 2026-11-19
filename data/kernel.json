@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "description": "正式核心对象尚未迁移。空列表表示已登记数为零，不代表项目全部工作量为零。",
+  "objects": [],
+  "facts": [],
+  "conflicts": []
+}

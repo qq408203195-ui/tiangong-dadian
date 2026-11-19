@@ -24,6 +24,10 @@ if any(not x.get('name') for x in e):fail('empty name')
 existing=set(ids); baseline=set(load(ROOT/'scripts/baseline-ids.json'))
 missing=sorted(baseline-existing)
 if missing:fail('baseline IDs missing: '+', '.join(missing[:10]))
+baseline_geo=set(load(ROOT/'scripts/baseline-geography-ids.json'))
+actual_geo={x['id'] for x in e if x.get('category')=='地理志'}
+if len(baseline_geo)!=1556 or baseline_geo-actual_geo:
+    fail('geography baseline IDs missing or recategorized: '+str(sorted(baseline_geo-actual_geo)[:10]))
 broken=[(x['id'],i) for x in e for i in (x.get('links') or []) if i not in existing]
 if broken:fail('unresolved forward links: '+str(broken[:10]))
 for f in ['proposals.json','geo-notes.json','source-audit.json']:load(ROOT/'site/data'/f)

@@ -1,0 +1,10 @@
+{
+  "artifact": "天工大典_V0.2.41_离线百科.html",
+  "sha256": "591067d93368c0f747ab7fc110f597c3e1aa22128ef6d9eff6df3e1750ed4d39",
+  "embedded_entries": 2476,
+  "embedded_entries_equal_repository_v0_2_40": true,
+  "geography_ids_retained": 1556,
+  "embedded_recipes": 61,
+  "embedded_military_candidates": 4,
+  "qualification": "网页标题标为 V0.2.41；内嵌词条数组无独立主库版本元数据，且与仓库 V0.2.40 逐条相同。配方和候选未经可运行性或史实复核。"
+}
