@@ -1,0 +1,2471 @@
+[
+  {
+    "id": "PR01",
+    "name": "粮食基础生产",
+    "inputs": [
+      {
+        "name": "种质",
+        "candidates": [
+          "RES-023"
+        ],
+        "resolved_id": "RES-023",
+        "qty": 1
+      },
+      {
+        "name": "劳作物资",
+        "candidates": [
+          "RES-004"
+        ],
+        "resolved_id": "RES-004",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "粮食",
+      "candidates": [
+        "RES-024"
+      ],
+      "resolved_id": "RES-024",
+      "qty": 12
+    },
+    "facility": {
+      "name": "农田",
+      "candidates": [
+        "FAC-007"
+      ],
+      "resolved_id": "FAC-007"
+    },
+    "requires": [
+      "B01"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR02",
+    "name": "改良粮食生产",
+    "inputs": [
+      {
+        "name": "种质",
+        "candidates": [
+          "RES-023"
+        ],
+        "resolved_id": "RES-023",
+        "qty": 1
+      },
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "粮食",
+      "candidates": [
+        "RES-024"
+      ],
+      "resolved_id": "RES-024",
+      "qty": 18
+    },
+    "facility": {
+      "name": "农田",
+      "candidates": [
+        "FAC-007"
+      ],
+      "resolved_id": "FAC-007"
+    },
+    "requires": [
+      "A02",
+      "A04",
+      "A05"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR03",
+    "name": "农具推广",
+    "inputs": [
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 3
+      },
+      {
+        "name": "教材",
+        "candidates": [
+          "RES-014"
+        ],
+        "resolved_id": "RES-014",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "劳作物资",
+      "candidates": [
+        "RES-004"
+      ],
+      "resolved_id": "RES-004",
+      "qty": 6
+    },
+    "facility": {
+      "name": "农具工坊",
+      "candidates": [
+        "FAC-006"
+      ],
+      "resolved_id": "FAC-006"
+    },
+    "requires": [
+      "A05"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR04",
+    "name": "造林与采伐",
+    "inputs": [],
+    "output": {
+      "name": "木材",
+      "candidates": [
+        "RES-015"
+      ],
+      "resolved_id": "RES-015",
+      "qty": 8
+    },
+    "facility": {
+      "name": "林场",
+      "candidates": [
+        "FAC-025"
+      ],
+      "resolved_id": "FAC-025"
+    },
+    "requires": [
+      "B03"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR05",
+    "name": "黏土与砂石开采",
+    "inputs": [],
+    "output": {
+      "name": "砂石",
+      "candidates": [
+        "RES-022"
+      ],
+      "resolved_id": "RES-022",
+      "qty": 8
+    },
+    "facility": {
+      "name": "采石场",
+      "candidates": [
+        "FAC-045"
+      ],
+      "resolved_id": "FAC-045"
+    },
+    "requires": [
+      "B05"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR06",
+    "name": "盐料获取",
+    "inputs": [],
+    "output": {
+      "name": "盐料",
+      "candidates": [
+        "RES-021"
+      ],
+      "resolved_id": "RES-021",
+      "qty": 5
+    },
+    "facility": {
+      "name": "市场",
+      "candidates": [
+        "FAC-021"
+      ],
+      "resolved_id": "FAC-021"
+    },
+    "requires": [
+      "B09"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR07",
+    "name": "草本与纤维种植",
+    "inputs": [
+      {
+        "name": "种质",
+        "candidates": [
+          "RES-023"
+        ],
+        "resolved_id": "RES-023",
+        "qty": 1
+      },
+      {
+        "name": "劳作物资",
+        "candidates": [
+          "RES-004"
+        ],
+        "resolved_id": "RES-004",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "纤维",
+      "candidates": [
+        "RES-026"
+      ],
+      "resolved_id": "RES-026",
+      "qty": 8
+    },
+    "facility": {
+      "name": "农田",
+      "candidates": [
+        "FAC-007"
+      ],
+      "resolved_id": "FAC-007"
+    },
+    "requires": [
+      "B01",
+      "B04"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR08",
+    "name": "传统矿石",
+    "inputs": [
+      {
+        "name": "木材",
+        "candidates": [
+          "RES-015"
+        ],
+        "resolved_id": "RES-015",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "铁矿石",
+      "candidates": [
+        "RES-039"
+      ],
+      "resolved_id": "RES-039",
+      "qty": 8
+    },
+    "facility": {
+      "name": "矿场",
+      "candidates": [
+        "FAC-031"
+      ],
+      "resolved_id": "FAC-031"
+    },
+    "requires": [
+      "B07"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR09",
+    "name": "矿石扩产",
+    "inputs": [
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      },
+      {
+        "name": "木材",
+        "candidates": [
+          "RES-015"
+        ],
+        "resolved_id": "RES-015",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "铁矿石",
+      "candidates": [
+        "RES-039"
+      ],
+      "resolved_id": "RES-039",
+      "qty": 12
+    },
+    "facility": {
+      "name": "矿场",
+      "candidates": [
+        "FAC-031"
+      ],
+      "resolved_id": "FAC-031"
+    },
+    "requires": [
+      "N02",
+      "N03"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR10",
+    "name": "木炭与基础燃料",
+    "inputs": [
+      {
+        "name": "木材",
+        "candidates": [
+          "RES-015"
+        ],
+        "resolved_id": "RES-015",
+        "qty": 4
+      }
+    ],
+    "output": {
+      "name": "燃料",
+      "candidates": [
+        "U-B07-02"
+      ],
+      "resolved_id": "U-B07-02",
+      "qty": 5
+    },
+    "facility": {
+      "name": "林场",
+      "candidates": [
+        "FAC-025"
+      ],
+      "resolved_id": "FAC-025"
+    },
+    "requires": [
+      "B07"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR11",
+    "name": "煤炭开采",
+    "inputs": [
+      {
+        "name": "木材",
+        "candidates": [
+          "RES-015"
+        ],
+        "resolved_id": "RES-015",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "燃料",
+      "candidates": [
+        "U-B07-02"
+      ],
+      "resolved_id": "U-B07-02",
+      "qty": 8
+    },
+    "facility": {
+      "name": "矿场",
+      "candidates": [
+        "FAC-031"
+      ],
+      "resolved_id": "FAC-031"
+    },
+    "requires": [
+      "B07",
+      "N01"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR12",
+    "name": "焦炭供应",
+    "inputs": [
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 5
+      }
+    ],
+    "output": {
+      "name": "焦炭",
+      "candidates": [
+        "RES-017"
+      ],
+      "resolved_id": "RES-017",
+      "qty": 4
+    },
+    "facility": {
+      "name": "焦化场",
+      "candidates": [
+        "FAC-029"
+      ],
+      "resolved_id": "FAC-029"
+    },
+    "requires": [
+      "R04"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR13",
+    "name": "传统铁料",
+    "inputs": [
+      {
+        "name": "铁矿石",
+        "candidates": [
+          "RES-039"
+        ],
+        "resolved_id": "RES-039",
+        "qty": 6
+      },
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 4
+      }
+    ],
+    "output": {
+      "name": "铁料",
+      "candidates": [
+        "RES-037"
+      ],
+      "resolved_id": "RES-037",
+      "qty": 4
+    },
+    "facility": {
+      "name": "铁匠铺",
+      "candidates": [
+        "FAC-046"
+      ],
+      "resolved_id": "FAC-046"
+    },
+    "requires": [
+      "B02"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR14",
+    "name": "改良铁料",
+    "inputs": [
+      {
+        "name": "铁矿石",
+        "candidates": [
+          "RES-039"
+        ],
+        "resolved_id": "RES-039",
+        "qty": 6
+      },
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 3
+      }
+    ],
+    "output": {
+      "name": "铁料",
+      "candidates": [
+        "RES-037"
+      ],
+      "resolved_id": "RES-037",
+      "qty": 5
+    },
+    "facility": {
+      "name": "冶炼场",
+      "candidates": [
+        "FAC-008"
+      ],
+      "resolved_id": "FAC-008"
+    },
+    "requires": [
+      "R02"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR15",
+    "name": "焦炭冶炼",
+    "inputs": [
+      {
+        "name": "铁矿石",
+        "candidates": [
+          "RES-039"
+        ],
+        "resolved_id": "RES-039",
+        "qty": 6
+      },
+      {
+        "name": "焦炭",
+        "candidates": [
+          "RES-017"
+        ],
+        "resolved_id": "RES-017",
+        "qty": 3
+      }
+    ],
+    "output": {
+      "name": "铁料",
+      "candidates": [
+        "RES-037"
+      ],
+      "resolved_id": "RES-037",
+      "qty": 6
+    },
+    "facility": {
+      "name": "冶炼场",
+      "candidates": [
+        "FAC-008"
+      ],
+      "resolved_id": "FAC-008"
+    },
+    "requires": [
+      "R04",
+      "R02"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR16",
+    "name": "轧制铁板",
+    "inputs": [
+      {
+        "name": "铁料",
+        "candidates": [
+          "RES-037"
+        ],
+        "resolved_id": "RES-037",
+        "qty": 5
+      },
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "铁板",
+      "candidates": [
+        "RES-038"
+      ],
+      "resolved_id": "RES-038",
+      "qty": 4
+    },
+    "facility": {
+      "name": "轧制场",
+      "candidates": [
+        "FAC-042"
+      ],
+      "resolved_id": "FAC-042"
+    },
+    "requires": [
+      "R05"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR17",
+    "name": "精炼钢料",
+    "inputs": [
+      {
+        "name": "铁料",
+        "candidates": [
+          "RES-037"
+        ],
+        "resolved_id": "RES-037",
+        "qty": 5
+      },
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 3
+      }
+    ],
+    "output": {
+      "name": "钢料",
+      "candidates": [
+        "RES-036"
+      ],
+      "resolved_id": "RES-036",
+      "qty": 3
+    },
+    "facility": {
+      "name": "冶炼场",
+      "candidates": [
+        "FAC-008"
+      ],
+      "resolved_id": "FAC-008"
+    },
+    "requires": [
+      "R06"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR18",
+    "name": "基础工具",
+    "inputs": [
+      {
+        "name": "铁料",
+        "candidates": [
+          "RES-037"
+        ],
+        "resolved_id": "RES-037",
+        "qty": 2
+      },
+      {
+        "name": "木材",
+        "candidates": [
+          "RES-015"
+        ],
+        "resolved_id": "RES-015",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "工具",
+      "candidates": [
+        "RES-008"
+      ],
+      "resolved_id": "RES-008",
+      "qty": 3
+    },
+    "facility": {
+      "name": "铁匠铺",
+      "candidates": [
+        "FAC-046"
+      ],
+      "resolved_id": "FAC-046"
+    },
+    "requires": [
+      "B02"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR19",
+    "name": "标准工具",
+    "inputs": [
+      {
+        "name": "铁料",
+        "candidates": [
+          "RES-037"
+        ],
+        "resolved_id": "RES-037",
+        "qty": 2
+      },
+      {
+        "name": "木材",
+        "candidates": [
+          "RES-015"
+        ],
+        "resolved_id": "RES-015",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "工具",
+      "candidates": [
+        "RES-008"
+      ],
+      "resolved_id": "RES-008",
+      "qty": 5
+    },
+    "facility": {
+      "name": "工坊",
+      "candidates": [
+        "FAC-020"
+      ],
+      "resolved_id": "FAC-020"
+    },
+    "requires": [
+      "M01"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR20",
+    "name": "机械传动件",
+    "inputs": [
+      {
+        "name": "铁料",
+        "candidates": [
+          "RES-037"
+        ],
+        "resolved_id": "RES-037",
+        "qty": 3
+      },
+      {
+        "name": "木材",
+        "candidates": [
+          "RES-015"
+        ],
+        "resolved_id": "RES-015",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "机械件",
+      "candidates": [
+        "RES-016"
+      ],
+      "resolved_id": "RES-016",
+      "qty": 3
+    },
+    "facility": {
+      "name": "动力工坊",
+      "candidates": [
+        "FAC-009"
+      ],
+      "resolved_id": "FAC-009"
+    },
+    "requires": [
+      "M03"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR21",
+    "name": "精密件",
+    "inputs": [
+      {
+        "name": "钢料",
+        "candidates": [
+          "RES-036"
+        ],
+        "resolved_id": "RES-036",
+        "qty": 3
+      },
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "精密件",
+      "candidates": [
+        "U-M07-02"
+      ],
+      "resolved_id": "U-M07-02",
+      "qty": 2
+    },
+    "facility": {
+      "name": "精密工坊",
+      "candidates": [
+        "FAC-036"
+      ],
+      "resolved_id": "FAC-036"
+    },
+    "requires": [
+      "M07",
+      "R06"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR22",
+    "name": "玻璃",
+    "inputs": [
+      {
+        "name": "砂石",
+        "candidates": [
+          "RES-022"
+        ],
+        "resolved_id": "RES-022",
+        "qty": 3
+      },
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "玻璃",
+      "candidates": [
+        "RES-019"
+      ],
+      "resolved_id": "RES-019",
+      "qty": 3
+    },
+    "facility": {
+      "name": "玻璃坊",
+      "candidates": [
+        "FAC-030"
+      ],
+      "resolved_id": "FAC-030"
+    },
+    "requires": [
+      "C02"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR23",
+    "name": "基础建材",
+    "inputs": [
+      {
+        "name": "砂石",
+        "candidates": [
+          "RES-022"
+        ],
+        "resolved_id": "RES-022",
+        "qty": 3
+      },
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "建材",
+      "candidates": [
+        "RES-010"
+      ],
+      "resolved_id": "RES-010",
+      "qty": 4
+    },
+    "facility": {
+      "name": "窑场",
+      "candidates": [
+        "FAC-034"
+      ],
+      "resolved_id": "FAC-034"
+    },
+    "requires": [
+      "B05"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR24",
+    "name": "改良建材",
+    "inputs": [
+      {
+        "name": "砂石",
+        "candidates": [
+          "RES-022"
+        ],
+        "resolved_id": "RES-022",
+        "qty": 3
+      },
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "建材",
+      "candidates": [
+        "RES-010"
+      ],
+      "resolved_id": "RES-010",
+      "qty": 6
+    },
+    "facility": {
+      "name": "窑场",
+      "candidates": [
+        "FAC-034"
+      ],
+      "resolved_id": "FAC-034"
+    },
+    "requires": [
+      "C08"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR25",
+    "name": "基础制纸",
+    "inputs": [
+      {
+        "name": "木材",
+        "candidates": [
+          "RES-015"
+        ],
+        "resolved_id": "RES-015",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "纸张",
+      "candidates": [
+        "U-B06-02"
+      ],
+      "resolved_id": "U-B06-02",
+      "qty": 4
+    },
+    "facility": {
+      "name": "印刷坊",
+      "candidates": [
+        "FAC-016"
+      ],
+      "resolved_id": "FAC-016"
+    },
+    "requires": [
+      "B06"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR26",
+    "name": "教材印刷",
+    "inputs": [
+      {
+        "name": "纸张",
+        "candidates": [
+          "U-B06-02"
+        ],
+        "resolved_id": "U-B06-02",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "教材",
+      "candidates": [
+        "RES-014"
+      ],
+      "resolved_id": "RES-014",
+      "qty": 5
+    },
+    "facility": {
+      "name": "印刷坊",
+      "candidates": [
+        "FAC-016"
+      ],
+      "resolved_id": "FAC-016"
+    },
+    "requires": [
+      "E01"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR27",
+    "name": "工业印刷",
+    "inputs": [
+      {
+        "name": "纸张",
+        "candidates": [
+          "U-B06-02"
+        ],
+        "resolved_id": "U-B06-02",
+        "qty": 2
+      },
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "教材",
+      "candidates": [
+        "RES-014"
+      ],
+      "resolved_id": "RES-014",
+      "qty": 10
+    },
+    "facility": {
+      "name": "印刷坊",
+      "candidates": [
+        "FAC-016"
+      ],
+      "resolved_id": "FAC-016"
+    },
+    "requires": [
+      "C10"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR28",
+    "name": "工业化工",
+    "inputs": [
+      {
+        "name": "盐料",
+        "candidates": [
+          "RES-021"
+        ],
+        "resolved_id": "RES-021",
+        "qty": 2
+      },
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "化工品",
+      "candidates": [
+        "RES-006"
+      ],
+      "resolved_id": "RES-006",
+      "qty": 4
+    },
+    "facility": {
+      "name": "化工场",
+      "candidates": [
+        "FAC-011"
+      ],
+      "resolved_id": "FAC-011"
+    },
+    "requires": [
+      "C05",
+      "C06"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR29",
+    "name": "矿质肥料",
+    "inputs": [
+      {
+        "name": "化工品",
+        "candidates": [
+          "RES-006"
+        ],
+        "resolved_id": "RES-006",
+        "qty": 2
+      },
+      {
+        "name": "砂石",
+        "candidates": [
+          "RES-022"
+        ],
+        "resolved_id": "RES-022",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "肥料",
+      "candidates": [
+        "RES-029"
+      ],
+      "resolved_id": "RES-029",
+      "qty": 4
+    },
+    "facility": {
+      "name": "化工场",
+      "candidates": [
+        "FAC-011"
+      ],
+      "resolved_id": "FAC-011"
+    },
+    "requires": [
+      "C09",
+      "C06"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR30",
+    "name": "医护耗材",
+    "inputs": [
+      {
+        "name": "化工品",
+        "candidates": [
+          "RES-006"
+        ],
+        "resolved_id": "RES-006",
+        "qty": 1
+      },
+      {
+        "name": "纤维",
+        "candidates": [
+          "RES-026"
+        ],
+        "resolved_id": "RES-026",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "医疗样本",
+      "candidates": [
+        "RES-007"
+      ],
+      "resolved_id": "RES-007",
+      "qty": 3
+    },
+    "facility": {
+      "name": "医馆",
+      "candidates": [
+        "FAC-014"
+      ],
+      "resolved_id": "FAC-014"
+    },
+    "requires": [
+      "H04",
+      "C01"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR31",
+    "name": "手工纺纱",
+    "inputs": [
+      {
+        "name": "纤维",
+        "candidates": [
+          "RES-026"
+        ],
+        "resolved_id": "RES-026",
+        "qty": 4
+      }
+    ],
+    "output": {
+      "name": "纱线",
+      "candidates": [
+        "RES-027"
+      ],
+      "resolved_id": "RES-027",
+      "qty": 4
+    },
+    "facility": {
+      "name": "织坊",
+      "candidates": [
+        "FAC-038"
+      ],
+      "resolved_id": "FAC-038"
+    },
+    "requires": [
+      "B04"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR32",
+    "name": "水力纺纱",
+    "inputs": [
+      {
+        "name": "纤维",
+        "candidates": [
+          "RES-026"
+        ],
+        "resolved_id": "RES-026",
+        "qty": 7
+      },
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "纱线",
+      "candidates": [
+        "RES-027"
+      ],
+      "resolved_id": "RES-027",
+      "qty": 7
+    },
+    "facility": {
+      "name": "纺纱厂",
+      "candidates": [
+        "FAC-037"
+      ],
+      "resolved_id": "FAC-037"
+    },
+    "requires": [
+      "I04"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR33",
+    "name": "手工织造",
+    "inputs": [
+      {
+        "name": "纱线",
+        "candidates": [
+          "RES-027"
+        ],
+        "resolved_id": "RES-027",
+        "qty": 4
+      }
+    ],
+    "output": {
+      "name": "布匹",
+      "candidates": [
+        "RES-009"
+      ],
+      "resolved_id": "RES-009",
+      "qty": 4
+    },
+    "facility": {
+      "name": "织坊",
+      "candidates": [
+        "FAC-038"
+      ],
+      "resolved_id": "FAC-038"
+    },
+    "requires": [
+      "B04"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR34",
+    "name": "动力织造",
+    "inputs": [
+      {
+        "name": "纱线",
+        "candidates": [
+          "RES-027"
+        ],
+        "resolved_id": "RES-027",
+        "qty": 7
+      },
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "布匹",
+      "candidates": [
+        "RES-009"
+      ],
+      "resolved_id": "RES-009",
+      "qty": 7
+    },
+    "facility": {
+      "name": "织布厂",
+      "candidates": [
+        "FAC-039"
+      ],
+      "resolved_id": "FAC-039"
+    },
+    "requires": [
+      "I06"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR35",
+    "name": "工业染整",
+    "inputs": [
+      {
+        "name": "布匹",
+        "candidates": [
+          "RES-009"
+        ],
+        "resolved_id": "RES-009",
+        "qty": 6
+      },
+      {
+        "name": "化工品",
+        "candidates": [
+          "RES-006"
+        ],
+        "resolved_id": "RES-006",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "成品布",
+      "candidates": [
+        "RES-011"
+      ],
+      "resolved_id": "RES-011",
+      "qty": 6
+    },
+    "facility": {
+      "name": "染整场",
+      "candidates": [
+        "FAC-026"
+      ],
+      "resolved_id": "FAC-026"
+    },
+    "requires": [
+      "C07"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR36",
+    "name": "机械磨坊",
+    "inputs": [
+      {
+        "name": "粮食",
+        "candidates": [
+          "RES-024"
+        ],
+        "resolved_id": "RES-024",
+        "qty": 8
+      },
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "加工食品",
+      "candidates": [
+        "RES-002"
+      ],
+      "resolved_id": "RES-002",
+      "qty": 8
+    },
+    "facility": {
+      "name": "食品坊",
+      "candidates": [
+        "FAC-048"
+      ],
+      "resolved_id": "FAC-048"
+    },
+    "requires": [
+      "A09"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR37",
+    "name": "水力动力",
+    "inputs": [
+      {
+        "name": "机械件",
+        "candidates": [
+          "RES-016"
+        ],
+        "resolved_id": "RES-016",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "动力",
+      "candidates": [
+        "RES-003"
+      ],
+      "resolved_id": "RES-003",
+      "qty": 6
+    },
+    "facility": {
+      "name": "动力工坊",
+      "candidates": [
+        "FAC-009"
+      ],
+      "resolved_id": "FAC-009"
+    },
+    "requires": [
+      "M02"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR38",
+    "name": "蒸汽动力",
+    "inputs": [
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 4
+      },
+      {
+        "name": "机械件",
+        "candidates": [
+          "RES-016"
+        ],
+        "resolved_id": "RES-016",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "动力",
+      "candidates": [
+        "RES-003"
+      ],
+      "resolved_id": "RES-003",
+      "qty": 12
+    },
+    "facility": {
+      "name": "动力站",
+      "candidates": [
+        "FAC-010"
+      ],
+      "resolved_id": "FAC-010"
+    },
+    "requires": [
+      "P04",
+      "P05"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR39",
+    "name": "铁路设备",
+    "inputs": [
+      {
+        "name": "钢料",
+        "candidates": [
+          "RES-036"
+        ],
+        "resolved_id": "RES-036",
+        "qty": 4
+      },
+      {
+        "name": "精密件",
+        "candidates": [
+          "U-M07-02"
+        ],
+        "resolved_id": "U-M07-02",
+        "qty": 2
+      },
+      {
+        "name": "机械件",
+        "candidates": [
+          "RES-016"
+        ],
+        "resolved_id": "RES-016",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "运输设备",
+      "candidates": [
+        "RES-035"
+      ],
+      "resolved_id": "RES-035",
+      "qty": 2
+    },
+    "facility": {
+      "name": "机车厂",
+      "candidates": [
+        "FAC-024"
+      ],
+      "resolved_id": "FAC-024"
+    },
+    "requires": [
+      "L06"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR40",
+    "name": "铁轨与基建服务",
+    "inputs": [
+      {
+        "name": "铁板",
+        "candidates": [
+          "RES-038"
+        ],
+        "resolved_id": "RES-038",
+        "qty": 4
+      },
+      {
+        "name": "建材",
+        "candidates": [
+          "RES-010"
+        ],
+        "resolved_id": "RES-010",
+        "qty": 4
+      }
+    ],
+    "output": {
+      "name": "路网",
+      "candidates": [
+        "RES-032"
+      ],
+      "resolved_id": "RES-032",
+      "qty": 2
+    },
+    "facility": {
+      "name": "铁路工区",
+      "candidates": [
+        "FAC-047"
+      ],
+      "resolved_id": "FAC-047"
+    },
+    "requires": [
+      "L05"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR41",
+    "name": "铁路运力",
+    "inputs": [
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 3
+      },
+      {
+        "name": "机械件",
+        "candidates": [
+          "RES-016"
+        ],
+        "resolved_id": "RES-016",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "运力",
+      "candidates": [
+        "RES-033"
+      ],
+      "resolved_id": "RES-033",
+      "qty": 12
+    },
+    "facility": {
+      "name": "运输站",
+      "candidates": [
+        "FAC-043"
+      ],
+      "resolved_id": "FAC-043"
+    },
+    "requires": [
+      "L06",
+      "L08"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR42",
+    "name": "军事标准装备",
+    "inputs": [
+      {
+        "name": "铁料",
+        "candidates": [
+          "RES-037"
+        ],
+        "resolved_id": "RES-037",
+        "qty": 3
+      },
+      {
+        "name": "机械件",
+        "candidates": [
+          "RES-016"
+        ],
+        "resolved_id": "RES-016",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "装备",
+      "candidates": [
+        "RES-030"
+      ],
+      "resolved_id": "RES-030",
+      "qty": 3
+    },
+    "facility": {
+      "name": "军械坊",
+      "candidates": [
+        "FAC-003"
+      ],
+      "resolved_id": "FAC-003"
+    },
+    "requires": [
+      "W05"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR43",
+    "name": "技术人才培养",
+    "inputs": [
+      {
+        "name": "教材",
+        "candidates": [
+          "RES-014"
+        ],
+        "resolved_id": "RES-014",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "技术人才",
+      "candidates": [
+        "RES-012"
+      ],
+      "resolved_id": "RES-012",
+      "qty": 2
+    },
+    "facility": {
+      "name": "学堂",
+      "candidates": [
+        "FAC-018"
+      ],
+      "resolved_id": "FAC-018"
+    },
+    "requires": [
+      "E03"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR44",
+    "name": "种质留种",
+    "inputs": [
+      {
+        "name": "粮食",
+        "candidates": [
+          "RES-024"
+        ],
+        "resolved_id": "RES-024",
+        "qty": 3
+      }
+    ],
+    "output": {
+      "name": "种质",
+      "candidates": [
+        "RES-023"
+      ],
+      "resolved_id": "RES-023",
+      "qty": 4
+    },
+    "facility": {
+      "name": "农田",
+      "candidates": [
+        "FAC-007"
+      ],
+      "resolved_id": "FAC-007"
+    },
+    "requires": [
+      "B01"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR45",
+    "name": "普通农用配套",
+    "inputs": [
+      {
+        "name": "木材",
+        "candidates": [
+          "RES-015"
+        ],
+        "resolved_id": "RES-015",
+        "qty": 1
+      },
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "劳作物资",
+      "candidates": [
+        "RES-004"
+      ],
+      "resolved_id": "RES-004",
+      "qty": 4
+    },
+    "facility": {
+      "name": "工坊",
+      "candidates": [
+        "FAC-020"
+      ],
+      "resolved_id": "FAC-020"
+    },
+    "requires": [
+      "B01",
+      "B03"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR46",
+    "name": "基础实验耗材",
+    "inputs": [
+      {
+        "name": "盐料",
+        "candidates": [
+          "RES-021"
+        ],
+        "resolved_id": "RES-021",
+        "qty": 1
+      },
+      {
+        "name": "玻璃",
+        "candidates": [
+          "RES-019"
+        ],
+        "resolved_id": "RES-019",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "试剂",
+      "candidates": [
+        "RES-031"
+      ],
+      "resolved_id": "RES-031",
+      "qty": 3
+    },
+    "facility": {
+      "name": "实验室",
+      "candidates": [
+        "FAC-019"
+      ],
+      "resolved_id": "FAC-019"
+    },
+    "requires": [
+      "S06"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR47",
+    "name": "基础仪器维护",
+    "inputs": [
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 2
+      },
+      {
+        "name": "玻璃",
+        "candidates": [
+          "RES-019"
+        ],
+        "resolved_id": "RES-019",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "仪器",
+      "candidates": [
+        "RES-001"
+      ],
+      "resolved_id": "RES-001",
+      "qty": 2
+    },
+    "facility": {
+      "name": "机加工坊",
+      "candidates": [
+        "FAC-023"
+      ],
+      "resolved_id": "FAC-023"
+    },
+    "requires": [
+      "M05",
+      "C02"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR48",
+    "name": "基础医护耗材",
+    "inputs": [
+      {
+        "name": "纤维",
+        "candidates": [
+          "RES-026"
+        ],
+        "resolved_id": "RES-026",
+        "qty": 1
+      },
+      {
+        "name": "劳作物资",
+        "candidates": [
+          "RES-004"
+        ],
+        "resolved_id": "RES-004",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "医疗样本",
+      "candidates": [
+        "RES-007"
+      ],
+      "resolved_id": "RES-007",
+      "qty": 2
+    },
+    "facility": {
+      "name": "医馆",
+      "candidates": [
+        "FAC-014"
+      ],
+      "resolved_id": "FAC-014"
+    },
+    "requires": [
+      "B08"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR49",
+    "name": "基础军需装备采购与整备",
+    "inputs": [
+      {
+        "name": "装备",
+        "candidates": [
+          "RES-030"
+        ],
+        "resolved_id": "RES-030",
+        "qty": 1
+      },
+      {
+        "name": "布匹",
+        "candidates": [
+          "RES-009"
+        ],
+        "resolved_id": "RES-009",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "基础军需包",
+      "candidates": [
+        "RES-040"
+      ],
+      "resolved_id": "RES-040",
+      "qty": 2
+    },
+    "facility": {
+      "name": "军需处",
+      "candidates": [
+        "U-LG01-01"
+      ],
+      "resolved_id": "U-LG01-01"
+    },
+    "requires": [
+      "W01",
+      "LG01"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR50",
+    "name": "军服营具供应",
+    "inputs": [
+      {
+        "name": "布匹",
+        "candidates": [
+          "RES-009"
+        ],
+        "resolved_id": "RES-009",
+        "qty": 2
+      },
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "军服营具包",
+      "candidates": [
+        "RES-041"
+      ],
+      "resolved_id": "RES-041",
+      "qty": 3
+    },
+    "facility": {
+      "name": "军需工坊",
+      "candidates": [
+        "U-LG03-02"
+      ],
+      "resolved_id": "U-LG03-02"
+    },
+    "requires": [
+      "LG03"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR51",
+    "name": "野战医疗补给",
+    "inputs": [
+      {
+        "name": "医疗样本",
+        "candidates": [
+          "RES-007"
+        ],
+        "resolved_id": "RES-007",
+        "qty": 2
+      },
+      {
+        "name": "布匹",
+        "candidates": [
+          "RES-009"
+        ],
+        "resolved_id": "RES-009",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "军医补给包",
+      "candidates": [
+        "RES-042"
+      ],
+      "resolved_id": "RES-042",
+      "qty": 3
+    },
+    "facility": {
+      "name": "军医学校",
+      "candidates": [
+        "U-LG07-01"
+      ],
+      "resolved_id": "U-LG07-01"
+    },
+    "requires": [
+      "LG07"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR52",
+    "name": "军粮统筹",
+    "inputs": [
+      {
+        "name": "粮食",
+        "candidates": [
+          "RES-024"
+        ],
+        "resolved_id": "RES-024",
+        "qty": 4
+      }
+    ],
+    "output": {
+      "name": "军粮包",
+      "candidates": [
+        "RES-043"
+      ],
+      "resolved_id": "RES-043",
+      "qty": 4
+    },
+    "facility": {
+      "name": "军粮站",
+      "candidates": [
+        "U-LG02-01"
+      ],
+      "resolved_id": "U-LG02-01"
+    },
+    "requires": [
+      "LG02"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR53",
+    "name": "工兵通用器材供给",
+    "inputs": [
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 2
+      },
+      {
+        "name": "建材",
+        "candidates": [
+          "RES-010"
+        ],
+        "resolved_id": "RES-010",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "工程勤务包",
+      "candidates": [
+        "RES-044"
+      ],
+      "resolved_id": "RES-044",
+      "qty": 3
+    },
+    "facility": {
+      "name": "工兵学校",
+      "candidates": [
+        "U-EN03-02"
+      ],
+      "resolved_id": "U-EN03-02"
+    },
+    "requires": [
+      "EN03"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR54",
+    "name": "军马饲养与照护",
+    "inputs": [
+      {
+        "name": "粮食",
+        "candidates": [
+          "RES-024"
+        ],
+        "resolved_id": "RES-024",
+        "qty": 3
+      },
+      {
+        "name": "医疗样本",
+        "candidates": [
+          "RES-007"
+        ],
+        "resolved_id": "RES-007",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "军马服务配额",
+      "candidates": [
+        "RES-045"
+      ],
+      "resolved_id": "RES-045",
+      "qty": 2
+    },
+    "facility": {
+      "name": "军马场",
+      "candidates": [
+        "U-CA02-01"
+      ],
+      "resolved_id": "U-CA02-01"
+    },
+    "requires": [
+      "CA02"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR55",
+    "name": "近代军需采购与验收",
+    "inputs": [
+      {
+        "name": "装备",
+        "candidates": [
+          "RES-030"
+        ],
+        "resolved_id": "RES-030",
+        "qty": 2
+      },
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "近代军需包",
+      "candidates": [
+        "RES-046"
+      ],
+      "resolved_id": "RES-046",
+      "qty": 2
+    },
+    "facility": {
+      "name": "总军械库",
+      "candidates": [],
+      "resolved_id": null
+    },
+    "requires": [
+      "LG05"
+    ],
+    "missing_requires": [],
+    "status": "unresolved",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR56",
+    "name": "军用铁路运输服务",
+    "inputs": [
+      {
+        "name": "运输设备",
+        "candidates": [
+          "RES-035"
+        ],
+        "resolved_id": "RES-035",
+        "qty": 1
+      },
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "军运服务",
+      "candidates": [
+        "RES-047"
+      ],
+      "resolved_id": "RES-047",
+      "qty": 5
+    },
+    "facility": {
+      "name": "军用车站",
+      "candidates": [
+        "U-LG08-02"
+      ],
+      "resolved_id": "U-LG08-02"
+    },
+    "requires": [
+      "LG08"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR57",
+    "name": "军港维护服务",
+    "inputs": [
+      {
+        "name": "工具",
+        "candidates": [
+          "RES-008"
+        ],
+        "resolved_id": "RES-008",
+        "qty": 1
+      },
+      {
+        "name": "燃料",
+        "candidates": [
+          "U-B07-02"
+        ],
+        "resolved_id": "U-B07-02",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "军港服务",
+      "candidates": [
+        "RES-048"
+      ],
+      "resolved_id": "RES-048",
+      "qty": 4
+    },
+    "facility": {
+      "name": "转运军港",
+      "candidates": [],
+      "resolved_id": null
+    },
+    "requires": [
+      "LG09"
+    ],
+    "missing_requires": [],
+    "status": "unresolved",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR58",
+    "name": "军官训练教材发行",
+    "inputs": [
+      {
+        "name": "教材",
+        "candidates": [
+          "RES-014"
+        ],
+        "resolved_id": "RES-014",
+        "qty": 2
+      }
+    ],
+    "output": {
+      "name": "军教服务",
+      "candidates": [
+        "RES-049"
+      ],
+      "resolved_id": "RES-049",
+      "qty": 2
+    },
+    "facility": {
+      "name": "军官学堂",
+      "candidates": [
+        "U-OR02-01"
+      ],
+      "resolved_id": "U-OR02-01"
+    },
+    "requires": [
+      "OR02",
+      "E04"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR59",
+    "name": "技术推广教材发行",
+    "inputs": [
+      {
+        "name": "教材",
+        "candidates": [
+          "RES-014"
+        ],
+        "resolved_id": "RES-014",
+        "qty": 2
+      },
+      {
+        "name": "纸张",
+        "candidates": [
+          "U-B06-02"
+        ],
+        "resolved_id": "U-B06-02",
+        "qty": 1
+      }
+    ],
+    "output": {
+      "name": "推广服务",
+      "candidates": [
+        "RES-050"
+      ],
+      "resolved_id": "RES-050",
+      "qty": 4
+    },
+    "facility": {
+      "name": "国家技术推广署",
+      "candidates": [],
+      "resolved_id": null
+    },
+    "requires": [
+      "X20"
+    ],
+    "missing_requires": [],
+    "status": "unresolved",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR60",
+    "name": "公共储粮调度",
+    "inputs": [
+      {
+        "name": "粮食",
+        "candidates": [
+          "RES-024"
+        ],
+        "resolved_id": "RES-024",
+        "qty": 5
+      }
+    ],
+    "output": {
+      "name": "储备粮批",
+      "candidates": [
+        "RES-051"
+      ],
+      "resolved_id": "RES-051",
+      "qty": 5
+    },
+    "facility": {
+      "name": "公共储备仓",
+      "candidates": [],
+      "resolved_id": null
+    },
+    "requires": [
+      "X04"
+    ],
+    "missing_requires": [],
+    "status": "unresolved",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  },
+  {
+    "id": "PR61",
+    "name": "地方军械采购",
+    "inputs": [
+      {
+        "name": "白银",
+        "candidates": [
+          "RES-020"
+        ],
+        "resolved_id": "RES-020",
+        "qty": 3
+      }
+    ],
+    "output": {
+      "name": "装备",
+      "candidates": [
+        "RES-030"
+      ],
+      "resolved_id": "RES-030",
+      "qty": 2
+    },
+    "facility": {
+      "name": "军需处",
+      "candidates": [
+        "U-LG01-01"
+      ],
+      "resolved_id": "U-LG01-01"
+    },
+    "requires": [
+      "B12",
+      "LG01"
+    ],
+    "missing_requires": [],
+    "status": "resolved_reference_only",
+    "classification": "继承游戏配方，非史实；工期与执行规则待设计"
+  }
+]

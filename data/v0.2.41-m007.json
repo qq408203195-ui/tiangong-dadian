@@ -1,0 +1,124 @@
+[
+  {
+    "target": "HM003",
+    "name": "神机营",
+    "type": "revision",
+    "claim": "明代京营中的神机营承担火器操练职能；不能由明初编制推定1628年实员和装备率。",
+    "period": "明代制度史；1628实态待核",
+    "classification": "制度记载≠实员装备",
+    "source_status": "two_independent_secondary_texts_not_primary_verified",
+    "sources": [
+      {
+        "title": "《明史》兵志（经中国国防报转引）",
+        "locator": "兵志京营条；原卷原文待核",
+        "url": "https://www.xinhuanet.com/mil/2021-11/25/c_1211460816.htm"
+      },
+      {
+        "title": "中国国防报《明代火器技术如何推动军队编制体制调整》",
+        "locator": "组建神机营段，2021-11-25",
+        "url": "https://www.xinhuanet.com/mil/2021-11/25/c_1211460816.htm"
+      }
+    ],
+    "related": [
+      "HM001",
+      "HM002",
+      "HM005"
+    ],
+    "note": "两条同网页且存在转引依赖，不计独立双源；仅建议按来源定位补核。",
+    "target_exists": true,
+    "related_valid": {
+      "HM001": true,
+      "HM002": true,
+      "HM005": true
+    },
+    "candidate_new_id": null,
+    "status": "review_only_not_merged"
+  },
+  {
+    "target": "U-MI01-02",
+    "name": "纪律化操练",
+    "type": "revision",
+    "claim": "《纪效新书》卷四明确军中号令、行营秩序与队伍纪律；卷九载行军传令和塘报安排。",
+    "period": "嘉靖时期操典，1628适用范围待核",
+    "classification": "操典规范≠全军实际执行",
+    "source_status": "single_primary_author_two_chapters_not_independent",
+    "sources": [
+      {
+        "title": "戚继光《纪效新书》卷四",
+        "locator": "谕兵紧要禁令篇第四，行营与号令段",
+        "url": "https://www.shidianguji.com/book/SK1397/chapter/1la03mzhxr9yc"
+      },
+      {
+        "title": "戚继光《纪效新书》卷九",
+        "locator": "出征起程在途行营篇第九，塘报与喇叭号令段",
+        "url": "https://www.shidianguji.com/book/NA05877/chapter/1kcu4j6itbqiy"
+      }
+    ],
+    "related": [
+      "MIL001",
+      "U-W02-02"
+    ],
+    "note": "同一作者两卷不满足独立来源；先做技术机制候选。",
+    "target_exists": true,
+    "related_valid": {
+      "MIL001": true,
+      "U-W02-02": true
+    },
+    "candidate_new_id": null,
+    "status": "review_only_not_merged"
+  },
+  {
+    "target": "U-NV01-03",
+    "name": "水师营",
+    "type": "revision",
+    "claim": "《纪效新书》十八卷本目录有“治水兵篇”；不能据此推断1628年各地水师营统一编制。",
+    "period": "嘉靖时期文献；1628实态待核",
+    "classification": "著作目录≠地区编制",
+    "source_status": "single_text_only",
+    "sources": [
+      {
+        "title": "戚继光《纪效新书》十八卷本",
+        "locator": "卷十八 治水兵篇",
+        "url": "https://www.moshuyuan.com/book/zibu/ji-xiao-xin-shu.html"
+      }
+    ],
+    "related": [
+      "MIL001"
+    ],
+    "note": "待取得独立军政档案和地方志核验。",
+    "target_exists": true,
+    "related_valid": {
+      "MIL001": true
+    },
+    "candidate_new_id": null,
+    "status": "review_only_not_merged"
+  },
+  {
+    "target": "U-AR01-02",
+    "name": "传统火炮",
+    "type": "revision",
+    "claim": "《明史》兵志记载兵仗、军器等制作机构和火器、车载铳炮实例；不可直接等同于1628年普遍装备。",
+    "period": "明代历时记载；1628地方实态待核",
+    "classification": "历时案例≠1628普及率",
+    "source_status": "single_primary_compilation_only",
+    "sources": [
+      {
+        "title": "《明史》卷九十二兵志",
+        "locator": "军器制造机构及车战火器条",
+        "url": "https://www.zzrvtc.edu.cn/_upload/article/files/4a/b5/8e96390c448dbfd6bc435a8efbf0/ee6ec53f-be9d-4a05-99c5-7245557fa440.pdf"
+      }
+    ],
+    "related": [
+      "HE006",
+      "HM003"
+    ],
+    "note": "需独立原始记载和具体地域证据。",
+    "target_exists": true,
+    "related_valid": {
+      "HE006": true,
+      "HM003": true
+    },
+    "candidate_new_id": null,
+    "status": "review_only_not_merged"
+  }
+]
