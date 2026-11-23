@@ -1,0 +1,41 @@
+[
+  {
+    "target_id": "U-NV01-02",
+    "target_name": "传统战船",
+    "action": "propose_evidence_correction",
+    "new_id": null,
+    "subject": "福船战术描述的引文谱系纠偏及船型差异",
+    "period": "嘉靖年间东南海防论述；1628年实装未证",
+    "classification": "明代军书中船型及战术记载，不等于1628年装备实录",
+    "claim": "《筹海图编》卷十三《经略三·兵船》收录福船、海沧船、开浪船等船型说明；其中福船高大、依赖风势及吃水较深的关键叙述明确标为“参将戚继光云”，不能把该引文与戚继光著述视为两条独立证据。",
+    "sources": [
+      {
+        "work": "筹海图编",
+        "author": "郑若曾编纂，胡宗宪主持",
+        "locator": "卷十三·经略三·兵船·大福船图说、海沧船图说、开浪船图说",
+        "url": "https://www.shidianguji.com/book/HY2125/chapter/1kr32hnwvl5vz",
+        "independence_group": "筹海图编内引戚继光言论",
+        "status": "已定位可检索转录文字，原刻图页未校",
+        "direct_support_verified": true
+      },
+      {
+        "work": "筹海图编（异版本）",
+        "author": "胡宗宪辑议，后世重校",
+        "locator": "卷十三·经略三·兵船",
+        "url": "https://www.shidianguji.com/zh/book/SK1044/chapter/1lap0xmyd55ia",
+        "independence_group": "同书异版本，非独立来源",
+        "status": "用于文字对照，不计第二来源",
+        "direct_support_verified": true
+      }
+    ],
+    "verified_independent_direct_sources": 0,
+    "verification_status": "单一文献链定位；不符合双独立直接来源准入",
+    "conflict": "M031将《筹海图编》与《纪效新书》列为潜在双证，但卷十三明确将核心论述归于戚继光；二者不能按不同书名直接计为独立来源。不同版本存在字形与转录差异，原刻图页未核。",
+    "proposed_change": "修正M031来源独立性判定；在传统战船下按大福船、海沧船、开浪船等分别设待核子类型；1628年舰船存量与吃水数据一律不填实证值",
+    "related_existing_ids": [
+      "NV01",
+      "U-NV01-03"
+    ],
+    "game_inference": "不同船型的水深、风力、机动性差异可作为机制原型，数值须单列游戏推演，不套用古籍描述作定量平衡"
+  }
+]
