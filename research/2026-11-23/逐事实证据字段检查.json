@@ -1,0 +1,402 @@
+[
+  {
+    "entry_id": "P001",
+    "category": "人物志",
+    "claim": "1627年即位、1628年改元崇祯",
+    "verification": "cross_checked_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "P003",
+    "category": "人物志",
+    "claim": "徐光启在崇祯元年被召回朝廷，参与朝政；崇祯二年启动修历工作",
+    "verification": "cross_checked_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "P005",
+    "category": "人物志",
+    "claim": "1628年袁崇焕以兵部尚书兼右副都御史督师，所辖军务范围包括蓟辽、登莱、天津。",
+    "verification": "two_evidence_chains_provisional",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "P010",
+    "category": "人物志",
+    "claim": "现有1626年卒年可获两家博物馆叙述支持，但原始证据链尚未查明",
+    "verification": "provisional_not_strict",
+    "source_count": 2,
+    "declared_source_groups": 0,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "MIL001",
+    "category": "兵制志",
+    "claim": "明代卫所法定编制一卫约5600人、一千户所1120人、一百户所112人",
+    "verification": "partial_source_pending",
+    "source_count": 2,
+    "declared_source_groups": 0,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "MIL001",
+    "category": "兵制志",
+    "claim": "明代卫所制度法定编制：一卫约5600人、千户所1120人、百户所112人",
+    "verification": "cross_checked_limited",
+    "source_count": 2,
+    "declared_source_groups": 0,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "EQH001",
+    "category": "武备志",
+    "claim": "1628年以前明代已有鸟铳，且被明代军事著述明确讨论。",
+    "verification": "cross_checked_limited",
+    "source_count": 3,
+    "declared_source_groups": 3,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "EQH001",
+    "category": "武备志",
+    "claim": "1628年前鸟铳已进入明代官方军器造办名录及军事著述。",
+    "verification": "strict_dual_source_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "EQH002",
+    "category": "武备志",
+    "claim": "1628年以前明军已拥有红夷大炮类火器。",
+    "verification": "cross_checked_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "EQH003",
+    "category": "武备志",
+    "claim": "至迟嘉靖二十三年（1544），明朝已制造佛郎机类火器。",
+    "verification": "cross_checked_limited",
+    "source_count": 3,
+    "declared_source_groups": 3,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "U-B03-01",
+    "category": "百工志",
+    "claim": "1628年以前中国已有以水力驱动磨具加工粮食的技术。",
+    "verification": "cross_checked_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "ADM-P004",
+    "category": "地理志",
+    "claim": "明代真定府之名及其领州五、县二十七的名录记载",
+    "verification": "cross_checked_limited",
+    "source_count": 2,
+    "declared_source_groups": 0,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "ADM-C0001",
+    "category": "地理志",
+    "claim": "明代顺天府所属大兴县，京师附郭县之一",
+    "verification": "two_work_text_concordance_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "ADM-C0002",
+    "category": "地理志",
+    "claim": "明代顺天府所属宛平县，京师附郭县之一",
+    "verification": "two_work_text_concordance_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "ADM-C0003",
+    "category": "地理志",
+    "claim": "明代顺天府所属良乡县",
+    "verification": "two_work_text_concordance_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "ADM-C0004",
+    "category": "地理志",
+    "claim": "明代顺天府所属固安县",
+    "verification": "two_work_text_concordance_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "ADM-C0005",
+    "category": "地理志",
+    "claim": "明代顺天府所属永清县",
+    "verification": "two_work_text_concordance_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "ADM-C0006",
+    "category": "地理志",
+    "claim": "明代顺天府所属东安县",
+    "verification": "two_work_text_concordance_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "ADM-C0007",
+    "category": "地理志",
+    "claim": "明代顺天府所属香河县",
+    "verification": "two_work_text_concordance_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "ADM-C0072",
+    "category": "地理志",
+    "claim": "真定县为真定府附郭县，且明代名称为真定县",
+    "verification": "cross_checked_limited",
+    "source_count": 2,
+    "declared_source_groups": 0,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HG010",
+    "category": "政制志",
+    "claim": "洪武十三年（1380）由大都督府改置中、左、右、前、后五军都督府",
+    "verification": "cross_checked_limited",
+    "source_count": 2,
+    "declared_source_groups": 0,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HM001",
+    "category": "兵制志",
+    "claim": "嘉靖二十九年（1550）恢复京营三营制，设总督京营戎政及协理京营戎政等职。",
+    "verification": "text_concordance_not_independent",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HM002",
+    "category": "兵制志",
+    "claim": "嘉靖二十九年改制后，五军营仍为京营三营之一。",
+    "verification": "text_concordance_not_independent",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HM003",
+    "category": "兵制志",
+    "claim": "神机营在永乐三大营中负责神枪火器操练；嘉靖二十九年改制后仍列京营三营。",
+    "verification": "text_concordance_not_independent",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HM004",
+    "category": "兵制志",
+    "claim": "嘉靖二十九年（1550），三千营改称神枢营。",
+    "verification": "text_concordance_not_independent",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HM005",
+    "category": "兵制志",
+    "claim": "三千营为永乐时期三大营之一，嘉靖二十九年改名神枢营，故1628年不应作为与神枢营并列的现役营名。",
+    "verification": "text_concordance_not_independent",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE004",
+    "category": "武备志",
+    "claim": "《纪效新书》所列福船及海沧船应备器械均包括碗口铳。",
+    "verification": "single_source_limited",
+    "source_count": 1,
+    "declared_source_groups": 1,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE004",
+    "category": "武备志",
+    "claim": "据两件不同纪年实物的公开报道，明代1628年以前已有碗口类铜铳。",
+    "verification": "cross_checked_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE010",
+    "category": "武备志",
+    "claim": "明代无敌手铳名目见会典，另有1531年纪年器物著录线索。",
+    "verification": "single_source_pending",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE011",
+    "category": "武备志",
+    "claim": "《纪效新书》卷六将狼筅列为军士习练考核兵器。",
+    "verification": "single_source_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE011",
+    "category": "武备志",
+    "claim": "《纪效新书》卷六的狼筅考核规范要求顶端有刃、竹枝坚直粗大。",
+    "verification": "single_source_limited",
+    "source_count": 1,
+    "declared_source_groups": 1,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE011",
+    "category": "武备志",
+    "claim": "《兵录》狼筅总说亦记载枝条坚密、梢端加刃的规范，并将其描述为重在防御的器械。",
+    "verification": "single_source_limited",
+    "source_count": 1,
+    "declared_source_groups": 1,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE012",
+    "category": "武备志",
+    "claim": "《纪效新书》卷六记载藤牌与腰刀配套；不能据此确认刀牌为正式统一器名。",
+    "verification": "single_source_limited",
+    "source_count": 1,
+    "declared_source_groups": 1,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE013",
+    "category": "武备志",
+    "claim": "《纪效新书》卷六明确列有弓箭手及其装备要求。",
+    "verification": "single_source_limited",
+    "source_count": 1,
+    "declared_source_groups": 1,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE014",
+    "category": "武备志",
+    "claim": "《纪效新书》所列福船及海沧船应备器械均包括药弩及弩箭。",
+    "verification": "single_source_limited",
+    "source_count": 1,
+    "declared_source_groups": 1,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE015",
+    "category": "武备志",
+    "claim": "《纪效新书》所列福船及海沧船应备器械均包括铁蒺藜。",
+    "verification": "single_source_limited",
+    "source_count": 1,
+    "declared_source_groups": 1,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE020",
+    "category": "武备志",
+    "claim": "明代官修会典载大、中、小样佛朗机铜铳。",
+    "verification": "single_source_limited",
+    "source_count": 1,
+    "declared_source_groups": 1,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE020",
+    "category": "武备志",
+    "claim": "1628年前明代已有铜制佛郎机类火器。",
+    "verification": "cross_checked_limited",
+    "source_count": 2,
+    "declared_source_groups": 2,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "HE021",
+    "category": "武备志",
+    "claim": "明代官修会典列佛朗机铁铳名目。",
+    "verification": "single_source_limited",
+    "source_count": 1,
+    "declared_source_groups": 1,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  },
+  {
+    "entry_id": "BK005",
+    "category": "纪事志",
+    "claim": "茅元仪辑《武备志》，有天启元年（1621）刊本",
+    "verification": "two_edition_reports_provisional",
+    "source_count": 3,
+    "declared_source_groups": 3,
+    "locators_complete": true,
+    "strict_independence_rechecked_this_run": false
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "baseline": "V0.2.60-candidate",
+  "entries": 2476,
+  "geography": 1556,
+  "original_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "categories": {
+    "人物志": {
+      "entries": 40,
+      "with_fact_checks": 4,
+      "fact_check_records": 4,
+      "two_declared_groups": 3
+    },
+    "势力志": {
+      "entries": 16,
+      "with_fact_checks": 0,
+      "fact_check_records": 0
+    },
+    "地理志": {
+      "entries": 1556,
+      "with_fact_checks": 9,
+      "fact_check_records": 9,
+      "two_declared_groups": 7
+    },
+    "纪事志": {
+      "entries": 17,
+      "with_fact_checks": 1,
+      "fact_check_records": 1,
+      "two_declared_groups": 1
+    },
+    "兵制志": {
+      "entries": 96,
+      "with_fact_checks": 6,
+      "fact_check_records": 7,
+      "two_declared_groups": 5
+    },
+    "政制志": {
+      "entries": 92,
+      "with_fact_checks": 1,
+      "fact_check_records": 1
+    },
+    "食货志": {
+      "entries": 129,
+      "with_fact_checks": 0,
+      "fact_check_records": 0
+    },
+    "武备志": {
+      "entries": 53,
+      "with_fact_checks": 12,
+      "fact_check_records": 17,
+      "two_declared_groups": 8,
+      "fewer_than_two_sources": 9
+    },
+    "思潮志": {
+      "entries": 22,
+      "with_fact_checks": 0,
+      "fact_check_records": 0
+    },
+    "百工志": {
+      "entries": 43,
+      "with_fact_checks": 1,
+      "fact_check_records": 1,
+      "two_declared_groups": 1
+    },
+    "科技志": {
+      "entries": 255,
+      "with_fact_checks": 0,
+      "fact_check_records": 0
+    },
+    "营造志": {
+      "entries": 157,
+      "with_fact_checks": 0,
+      "fact_check_records": 0
+    }
+  },
+  "fact_check_records": 40,
+  "two_declared_groups_not_proof": 25,
+  "future_narrative_candidates": 23,
+  "broken_forward_or_backlinks": 0,
+  "duplicate_ids": [],
+  "new_strictly_verified_claims": 0,
+  "method": "字段完整性及年份模式筛查，不构成史实核验"
+}

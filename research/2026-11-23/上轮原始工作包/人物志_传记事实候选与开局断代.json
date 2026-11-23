@@ -1,0 +1,1496 @@
+[
+  {
+    "id": "P001",
+    "name": "朱由检",
+    "original_date": "1611—1644",
+    "birth_year_candidate": 1611,
+    "death_year_candidate": 1644,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "皇帝",
+    "biography_existing": "朱由检于天启七年（1627）继位，翌年为崇祯元年。崇祯朝面对边防、财政及民变等多重压力。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "朱由检于天启七年（1627）继位，翌年为崇祯元年。",
+        "years_explicit": [
+          1627
+        ],
+        "time_relation_to_1628": "by_opening_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      },
+      {
+        "original_text": "崇祯朝面对边防、财政及民变等多重压力。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "故宫博物院｜崇祯皇帝大事年表",
+        "url": "https://www.dpm.org.cn/court/lineage/226246.html",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "《明史》卷二十三（原文）",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷23",
+        "scope": "本条或主题参考"
+      }
+    ],
+    "existing_fact_check_count": 1,
+    "game_text_separate": "大明开局统治者。对委员会的态度由声望、地方官关系与政策决定；不预设必然亡国。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P002",
+    "name": "皇太极",
+    "original_date": "1592—1643",
+    "birth_year_candidate": 1592,
+    "death_year_candidate": 1643,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "君主",
+    "biography_existing": "努尔哈赤之子，1626年继承汗位，1628年统治金国。1636年称帝并定国号为大清。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "努尔哈赤之子，1626年继承汗位，1628年统治金国。",
+        "years_explicit": [
+          1626,
+          1628
+        ],
+        "time_relation_to_1628": "by_opening_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      },
+      {
+        "original_text": "1636年称帝并定国号为大清。",
+        "years_explicit": [
+          1636
+        ],
+        "time_relation_to_1628": "future_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "故宫博物院｜皇太极大事年表",
+        "url": "https://www.dpm.org.cn/court/lineage/226251.html",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "故宫博物院｜皇太极入关奔袭战略",
+        "url": "https://www.dpm.org.cn/court/event/158734.html",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "中国国家博物馆：金国外藩各蒙古贝勒奉朝鲜国王书（1636）",
+        "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_24735.shtml",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "后金统治者；军政整合与外交战略是主要AI特征。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P003",
+    "name": "徐光启",
+    "original_date": "1562—1633",
+    "birth_year_candidate": 1562,
+    "death_year_candidate": 1633,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "学者／官员",
+    "biography_existing": "徐光启（1562—1633），字子先，松江府上海县人，曾与利玛窦合作译介数学及西方科学知识，著有《农政全书》。1607年《几何原本》前六卷汉译完成，崇祯朝后来主持历法改革。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "徐光启（1562—1633），字子先，松江府上海县人，曾与利玛窦合作译介数学及西方科学知识，著有《农政全书》。",
+        "years_explicit": [
+          1562,
+          1633
+        ],
+        "time_relation_to_1628": "future_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      },
+      {
+        "original_text": "1607年《几何原本》前六卷汉译完成，崇祯朝后来主持历法改革。",
+        "years_explicit": [
+          1607
+        ],
+        "time_relation_to_1628": "by_opening_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "故宫博物院｜徐光启",
+        "url": "https://www.dpm.org.cn/lemmas/240423.html",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "中国科学院｜徐光启科学成就",
+        "url": "https://www.ioe.cas.cn/qtgn/zt/lstk/201311/t20131114_3978564.html",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "故宫博物院｜崇祯历书",
+        "url": "https://www.dpm.org.cn/lemmas/240416.html",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "中国科学院自然科学史研究所：中国农业历史与文化·明清时期的农业",
+        "url": "https://www.ihns.ac.cn/agri-his/history/zgns/dds/202607/t20260715_8248206.html",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      },
+      {
+        "title": "故宫博物院：《几何原本》馆藏",
+        "url": "https://www.dpm.org.cn/ancient/mingqing/142246.html",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      }
+    ],
+    "existing_fact_check_count": 1,
+    "game_text_separate": "潜在合作学者；农学、数学与测绘方向。属性与招募方式待定。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P004",
+    "name": "宋应星",
+    "original_date": "1587—约17世纪60年代",
+    "birth_year_candidate": 1587,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "学者",
+    "biography_existing": "宋应星，江西奉新县人，明代科技著作《天工开物》的作者，曾调查记录农业及手工业生产经验。该书于1637年初刊；卒年不在本次核定范围内。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "宋应星，江西奉新县人，明代科技著作《天工开物》的作者，曾调查记录农业及手工业生产经验。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "该书于1637年初刊；",
+        "years_explicit": [
+          1637
+        ],
+        "time_relation_to_1628": "future_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      },
+      {
+        "original_text": "卒年不在本次核定范围内。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "美国国会图书馆｜天工开物1637年刊本",
+        "url": "https://www.loc.gov/item/2021666134/",
+        "scope": "V0.1继承；本轮访问返回403，不计入本轮交叉核验"
+      },
+      {
+        "title": "中科院自然科学史研究所｜宋应星与天工开物",
+        "url": "https://ihns.cas.cn/yjcg/xszz/zztj/202212/t20221207_6570732.html",
+        "scope": "V0.1继承；本轮同主题链接访问超时，不计入本轮交叉核验"
+      },
+      {
+        "title": "中科院自然科学史研究所｜明代中后期日用类书中的农学知识",
+        "url": "https://ihns.cas.cn/yjcg/xszz/zztj/202412/t20241231_7512495.html",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "中国国家博物馆：《天工开物》",
+        "url": "https://www.chnmuseum.cn/zp/zpml/gjwxbt/202203/t20220301_254061.shtml",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      },
+      {
+        "title": "书格：《天工开物》明刊本及版本介绍",
+        "url": "https://www.shuge.org/view/tian_gong_kai_wu/",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "工艺调查与跨学科合作；1628年不得直接携带已刊《天工开物》。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P005",
+    "name": "袁崇焕",
+    "original_date": "1584—1630",
+    "birth_year_candidate": 1584,
+    "death_year_candidate": 1630,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "将领",
+    "biography_existing": "明末辽东统帅，主张依托关外城镇防守。1626年宁远之战获胜，1628年重新受到朝廷任用，1630年被处死。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末辽东统帅，主张依托关外城镇防守。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "1626年宁远之战获胜，1628年重新受到朝廷任用，1630年被处死。",
+        "years_explicit": [
+          1626,
+          1628,
+          1630
+        ],
+        "time_relation_to_1628": "future_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "中国大百科全书｜袁崇焕（数字转录）",
+        "url": "https://szzy.7lue.cn/read/fcdc7f28e76bc7877e1d17f9ba4c4f7b/9ee3aa911ecd9a3b6fe3d6e95d23a2f2.md",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "中央纪委国家监委｜明朝经略辽东",
+        "url": "https://v.ccdi.gov.cn/2020/10/23/VIDEQSQwLtB4EipdIPQ2eryO201023.shtml",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "故宫博物院｜崇祯皇帝大事年表",
+        "url": "https://www.dpm.org.cn/court/lineage/226246.html",
+        "scope": "本条或主题参考"
+      }
+    ],
+    "existing_fact_check_count": 1,
+    "game_text_separate": "边防人物。真实历史结局是条件事件，不锁死架空存档。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P006",
+    "name": "孙承宗",
+    "original_date": "1563—1638",
+    "birth_year_candidate": 1563,
+    "death_year_candidate": 1638,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "官员／军事统帅",
+    "biography_existing": "明末经略辽东的重要官员，重视城防、边军组织和关外防御体系。天启年间主持辽东军务。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末经略辽东的重要官员，重视城防、边军组织和关外防御体系。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "天启年间主持辽东军务。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "中央纪委国家监委｜明朝经略辽东",
+        "url": "https://v.ccdi.gov.cn/2020/10/23/VIDEQSQwLtB4EipdIPQ2eryO201023.shtml",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "《明史》卷二十三（原文）",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷23",
+        "scope": "本条或主题参考"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "可作为军事顾问候选；涉及守备、军官培养与后勤。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P007",
+    "name": "郑芝龙",
+    "original_date": "1604—1661",
+    "birth_year_candidate": 1604,
+    "death_year_candidate": 1661,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "海商／将领",
+    "biography_existing": "活跃于东亚海上贸易及武装海商网络。崇祯初年受明廷招抚，转入海防体系。公开资料对招抚具体年份有1628、1629等不同记法。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "活跃于东亚海上贸易及武装海商网络。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "崇祯初年受明廷招抚，转入海防体系。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "公开资料对招抚具体年份有1628、1629等不同记法。",
+        "years_explicit": [
+          1628,
+          1629
+        ],
+        "time_relation_to_1628": "future_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "福建省台港澳工作办公室｜郑氏历史脉络",
+        "url": "https://www.fjtb.gov.cn/history/201404/t20140415_6016379.htm",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "福州市政府｜郑成功（招抚年记载有异）",
+        "url": "https://www.fuzhou.gov.cn/zgfzzt/zjrc/mdfc/mdrj/202201/t20220110_4288107.htm",
+        "scope": "本条或主题参考"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "开局呈现独立海商网络，招抚设为动态事件而非预设第一季度官职。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P008",
+    "name": "郑成功",
+    "original_date": "1624—1662",
+    "birth_year_candidate": 1624,
+    "death_year_candidate": 1662,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "郑芝龙之子，出生于日本平户。1628年尚是幼童，成年后参与抗清并于1661—1662年驱逐台湾荷兰殖民当局。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "郑芝龙之子，出生于日本平户。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "1628年尚是幼童，成年后参与抗清并于1661—1662年驱逐台湾荷兰殖民当局。",
+        "years_explicit": [
+          1628,
+          1661,
+          1662
+        ],
+        "time_relation_to_1628": "future_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "福州市政府｜郑成功（招抚年记载有异）",
+        "url": "https://www.fuzhou.gov.cn/zgfzzt/zjrc/mdfc/mdrj/202201/t20220110_4288107.htm",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "国家民委｜台湾历史沿革",
+        "url": "https://www.neac.gov.cn/seac/ztzl/gsz/lsyg.shtml",
+        "scope": "本条或主题参考"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "开局不得作为将领招募；成年与历史形势满足后才进入事件池。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P009",
+    "name": "李自成",
+    "original_date": "1606—1645（常见纪年）",
+    "birth_year_candidate": 1606,
+    "death_year_candidate": 1645,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "民变领袖",
+    "biography_existing": "明末农民军领袖，1644年在西安建立大顺政权并攻入北京。1628年不应具有后来大顺皇帝的身份。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末农民军领袖，1644年在西安建立大顺政权并攻入北京。",
+        "years_explicit": [
+          1644
+        ],
+        "time_relation_to_1628": "future_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      },
+      {
+        "original_text": "1628年不应具有后来大顺皇帝的身份。",
+        "years_explicit": [
+          1628
+        ],
+        "time_relation_to_1628": "by_opening_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "故宫博物院｜崇祯皇帝大事年表",
+        "url": "https://www.dpm.org.cn/court/lineage/226246.html",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "《明史》卷二十三（原文）",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷23",
+        "scope": "本条或主题参考"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "人物成长与西北民变事件绑定，大顺须后续生成。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P010",
+    "name": "努尔哈赤",
+    "original_date": "1559—1626",
+    "birth_year_candidate": 1559,
+    "death_year_candidate": 1626,
+    "opening_gate": "dead_before_opening_candidate",
+    "existing_kind": "君主",
+    "biography_existing": "女真政治军事领袖，建立后金，推动八旗组织发展，与明朝展开战争。开局时已经去世。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "女真政治军事领袖，建立后金，推动八旗组织发展，与明朝展开战争。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "开局时已经去世。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "故宫博物院｜皇太极大事年表",
+        "url": "https://www.dpm.org.cn/court/lineage/226251.html",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "故宫博物院｜宫廷典制",
+        "url": "https://www.dpm.org.cn/court/systems.html",
+        "scope": "本条或主题参考"
+      }
+    ],
+    "existing_fact_check_count": 1,
+    "game_text_separate": "历史档案人物，不进入1628年活人名册。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P011",
+    "name": "李天经",
+    "original_date": "17世纪",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历法学者",
+    "biography_existing": "徐光启去世后继续主持历法编修工作，崇祯七年相关译编工作完成。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "徐光启去世后继续主持历法编修工作，崇祯七年相关译编工作完成。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "故宫博物院｜崇祯历书",
+        "url": "https://www.dpm.org.cn/lemmas/240416.html",
+        "scope": "本条或主题参考"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历法、数学与学术传承事件候选，开局具体官职待核。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P012",
+    "name": "仁祖",
+    "original_date": "在位1623—1649",
+    "birth_year_candidate": 1623,
+    "death_year_candidate": 1649,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "君主",
+    "biography_existing": "朝鲜王朝君主，1627年后金入侵朝鲜，战后双方关系发生变化。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "朝鲜王朝君主，1627年后金入侵朝鲜，战后双方关系发生变化。",
+        "years_explicit": [
+          1627
+        ],
+        "time_relation_to_1628": "by_opening_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "韩国国史编纂委员会｜丁卯之役史料",
+        "url": "https://db.history.go.kr/ancient/level.do?levelId=jo_023_0010_0010_1090",
+        "scope": "本条或主题参考"
+      },
+      {
+        "title": "史学杂志｜朝鲜丁卯胡乱考",
+        "url": "https://www.jstage.jst.go.jp/article/shigaku/123/8/123_KJ00010090921/_article/-char/ja/",
+        "scope": "本条或主题参考"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "朝鲜统治者；对后金与大明的关系随形势变化。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P013",
+    "name": "龙飞",
+    "original_date": "1628年抵达",
+    "birth_year_candidate": 1628,
+    "death_year_candidate": null,
+    "opening_gate": "fictional",
+    "existing_kind": "穿越者",
+    "biography_existing": "原创人物：现代大学教授，经虫洞抵达明末。不存在对应历史人物。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "原创人物：现代大学教授，经虫洞抵达明末。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "不存在对应历史人物。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "固定主角；专业自选、三名初始伙伴、筹备预算及跨局成就。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P014",
+    "name": "徐霞客",
+    "original_date": "1587—1641",
+    "birth_year_candidate": 1587,
+    "death_year_candidate": 1641,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "徐弘祖（1587—1641），字振之，号霞客，南直隶江阴人。以旅行实地考察记录地理、地貌和水文；后世整理成果称《徐霞客游记》。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "徐弘祖（1587—1641），字振之，号霞客，南直隶江阴人。",
+        "years_explicit": [
+          1587,
+          1641
+        ],
+        "time_relation_to_1628": "future_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      },
+      {
+        "original_text": "以旅行实地考察记录地理、地貌和水文；",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "后世整理成果称《徐霞客游记》。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "中国国家博物馆：《徐霞客游记》",
+        "url": "https://www.chnmuseum.cn/zp/zpml/gjwxbt/202203/t20220301_254063.shtml",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      },
+      {
+        "title": "中国科学院地理科学与资源研究所：徐霞客",
+        "url": "https://www.igsnrr.cas.cn/cbkx/kpyd/dlxj/202009/t20200910_5692681.html",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "地形与路线调查候选。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P015",
+    "name": "林丹汗",
+    "original_date": "1588—1634（常见纪年）",
+    "birth_year_candidate": 1588,
+    "death_year_candidate": 1634,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "察哈尔蒙古的重要政治领袖。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "察哈尔蒙古的重要政治领袖。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "蒙古外交与军事事件候选。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P016",
+    "name": "王嘉胤",
+    "original_date": "晚明",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末西北起事力量的早期领袖之一。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末西北起事力量的早期领袖之一。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "西北民变动态人物，不预设开局统治区。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P017",
+    "name": "德川家光",
+    "original_date": "1604—1651",
+    "birth_year_candidate": 1604,
+    "death_year_candidate": 1651,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "日本江户幕府第三代将军，1604—1651年。1628年属于其在任时期；具体贸易限制与政策时间需要查日本史资料。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "日本江户幕府第三代将军，1604—1651年。",
+        "years_explicit": [
+          1604,
+          1651
+        ],
+        "time_relation_to_1628": "future_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      },
+      {
+        "original_text": "1628年属于其在任时期；",
+        "years_explicit": [
+          1628
+        ],
+        "time_relation_to_1628": "by_opening_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      },
+      {
+        "original_text": "具体贸易限制与政策时间需要查日本史资料。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "日本国立国会图书馆｜德川家光规范档",
+        "url": "https://id.ndl.go.jp/auth/ndlna/00625964",
+        "scope": "针对本条的参考；非全部属性证明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "日本势力统治者，具体外交规则待核。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P018",
+    "name": "顾炎武",
+    "original_date": "1613—1682",
+    "birth_year_candidate": 1613,
+    "death_year_candidate": 1682,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明清之际思想家。1628年仍年轻。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明清之际思想家。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "1628年仍年轻。",
+        "years_explicit": [
+          1628
+        ],
+        "time_relation_to_1628": "by_opening_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      }
+    ],
+    "existing_source_refs": [],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "成年后思想与学术事件。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P019",
+    "name": "黄宗羲",
+    "original_date": "1610—1695",
+    "birth_year_candidate": 1610,
+    "death_year_candidate": 1695,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明清之际思想家。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明清之际思想家。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "政治思想事件须考虑年龄与学术发展。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P020",
+    "name": "方以智",
+    "original_date": "1611—1671",
+    "birth_year_candidate": 1611,
+    "death_year_candidate": 1671,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明清之际学者。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明清之际学者。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "自然哲学与学术合作候选。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "P021",
+    "name": "张献忠",
+    "original_date": "1606—1647（常见纪年）",
+    "birth_year_candidate": 1606,
+    "death_year_candidate": 1647,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末起事领袖，后来建立大西。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末起事领袖，后来建立大西。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "大西须动态生成，非开局势力。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP001",
+    "name": "卢象升",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末文臣、将领，崇祯朝参与镇压民变及边防作战，后来战死。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末文臣、将领，崇祯朝参与镇压民变及边防作战，后来战死。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷261",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷261",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP002",
+    "name": "刘之纶",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员、军事人物，《明史》与卢象升等合卷立传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员、军事人物，《明史》与卢象升等合卷立传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷261",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷261",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP003",
+    "name": "丘民仰",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员，《明史》列有专传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员，《明史》列有专传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷261",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷261",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP004",
+    "name": "傅宗龙",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末文臣，曾参与西南军务，崇祯朝后来承担军事统帅职责。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末文臣，曾参与西南军务，崇祯朝后来承担军事统帅职责。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷262",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷262",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP005",
+    "name": "汪乔年",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员及军事统帅，与民变战争有关。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员及军事统帅，与民变战争有关。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷262",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷262",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP006",
+    "name": "杨文岳",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员及军事统帅，参与崇祯朝军事行动。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员及军事统帅，参与崇祯朝军事行动。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷262",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷262",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP007",
+    "name": "孙传庭",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末文臣与军事统帅，崇祯后期主持陕西等地军务。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末文臣与军事统帅，崇祯后期主持陕西等地军务。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷262",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷262",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP008",
+    "name": "杨鹤",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员，见《明史》相关列传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员，见《明史》相关列传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷260",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷260",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP009",
+    "name": "陈奇瑜",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员与军事人物，见《明史》相关列传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员与军事人物，见《明史》相关列传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷260",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷260",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP010",
+    "name": "熊文灿",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员及军务人物，崇祯朝参与民变处置。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员及军务人物，崇祯朝参与民变处置。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷260",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷260",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP011",
+    "name": "练国事",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员，见《明史》相关列传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员，见《明史》相关列传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷260",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷260",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP012",
+    "name": "丁启睿",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员、军事人物，见《明史》相关列传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员、军事人物，见《明史》相关列传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷260",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷260",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP013",
+    "name": "郑崇俭",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员、军事人物，见《明史》相关列传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员、军事人物，见《明史》相关列传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷260",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷260",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP014",
+    "name": "邵捷春",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员，见《明史》相关列传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员，见《明史》相关列传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷260",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷260",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP015",
+    "name": "余应桂",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员，见《明史》相关列传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员，见《明史》相关列传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷260",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷260",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP016",
+    "name": "高斗枢",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员，见《明史》相关列传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员，见《明史》相关列传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷260",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷260",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP017",
+    "name": "张任学",
+    "original_date": "明末",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末官员，见《明史》相关列传。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末官员，见《明史》相关列传。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "《明史》目录及列传",
+        "url": "https://zh.wikisource.org/zh-hans/明史",
+        "scope": "本次查阅；核验范围见考证说明"
+      },
+      {
+        "title": "《明史》卷260",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷260",
+        "scope": "本次查阅；核验范围见考证说明"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "历史人物候选；1628年龄、官职、所在地与可招募条件尚未核定，不自动作为当前官员或将领。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP018",
+    "name": "茅元仪",
+    "original_date": "明代",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末军事文献编纂者，《武备志》编者。该书1621年刻成。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末军事文献编纂者，《武备志》编者。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      },
+      {
+        "original_text": "该书1621年刻成。",
+        "years_explicit": [
+          1621
+        ],
+        "time_relation_to_1628": "by_opening_or_mixed",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "两份真正独立史料，逐事实原文定位"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "对外经济贸易大学馆藏：《武备志》",
+        "url": "https://opac.uibe.edu.cn/opac/book/0df4b644e5ad0b9add17bf621671e94e",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      },
+      {
+        "title": "中国哲学书电子化计划：《武备志》",
+        "url": "https://ctext.org/datawiki.pl?if=gb&remap=gb&res=372240",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      },
+      {
+        "title": "书格：《武备志》明天启元年刊本",
+        "url": "https://www.shuge.org/view/wu_bei_zhi/",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "兵学合作候选，1628具体职务和地点待核。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  },
+  {
+    "id": "HP019",
+    "name": "李之藻",
+    "original_date": "明代",
+    "birth_year_candidate": null,
+    "death_year_candidate": null,
+    "opening_gate": "chronology_unverified",
+    "existing_kind": "历史人物",
+    "biography_existing": "明末参与西学译介与中西科技交流的学者，与徐光启、杨廷筠并称明末天主教三柱石。",
+    "event_claims_from_existing_text": [
+      {
+        "original_text": "明末参与西学译介与中西科技交流的学者，与徐光启、杨廷筠并称明末天主教三柱石。",
+        "years_explicit": [],
+        "time_relation_to_1628": "undated_requires_research",
+        "evidence_status": "unverified_existing_text",
+        "evidence_required": "年代与两份独立史料"
+      }
+    ],
+    "existing_source_refs": [
+      {
+        "title": "中国科学院自然科学史研究所：《李之藻集》",
+        "url": "https://www.ihns.ac.cn/yjcg/xszz/zztj/202212/t20221207_6570719.html",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      },
+      {
+        "title": "中国科学院自然科学史研究所：中国农业历史与文化·明清时期的农业",
+        "url": "https://www.ihns.ac.cn/agri-his/history/zgns/dds/202607/t20260715_8248206.html",
+        "scope": "本次实际查阅网页或检索正文摘要；仅支持考证说明所列事实"
+      }
+    ],
+    "existing_fact_check_count": 0,
+    "game_text_separate": "科学与教育合作候选；不预设1628官职。",
+    "provenance": "V0.2.60-candidate原文机械抽取，未新增历史事实，未证明来源独立"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "P001",
+    "name": "朱由检",
+    "date_original": "1611—1644",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P002",
+    "name": "皇太极",
+    "date_original": "1592—1643",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P003",
+    "name": "徐光启",
+    "date_original": "1562—1633",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P004",
+    "name": "宋应星",
+    "date_original": "1587—约17世纪60年代",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P005",
+    "name": "袁崇焕",
+    "date_original": "1584—1630",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P006",
+    "name": "孙承宗",
+    "date_original": "1563—1638",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P007",
+    "name": "郑芝龙",
+    "date_original": "1604—1661",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P008",
+    "name": "郑成功",
+    "date_original": "1624—1662",
+    "opening_screen": "minor_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P009",
+    "name": "李自成",
+    "date_original": "1606—1645（常见纪年）",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P010",
+    "name": "努尔哈赤",
+    "date_original": "1559—1626",
+    "opening_screen": "deceased_preopening_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P011",
+    "name": "李天经",
+    "date_original": "17世纪",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P012",
+    "name": "仁祖",
+    "date_original": "在位1623—1649",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P013",
+    "name": "龙飞",
+    "date_original": "1628年抵达",
+    "opening_screen": "fictional_not_historical",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P014",
+    "name": "徐霞客",
+    "date_original": "1587—1641",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P015",
+    "name": "林丹汗",
+    "date_original": "1588—1634（常见纪年）",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P016",
+    "name": "王嘉胤",
+    "date_original": "晚明",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P017",
+    "name": "德川家光",
+    "date_original": "1604—1651",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P018",
+    "name": "顾炎武",
+    "date_original": "1613—1682",
+    "opening_screen": "minor_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P019",
+    "name": "黄宗羲",
+    "date_original": "1610—1695",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P020",
+    "name": "方以智",
+    "date_original": "1611—1671",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "P021",
+    "name": "张献忠",
+    "date_original": "1606—1647（常见纪年）",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP001",
+    "name": "卢象升",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP002",
+    "name": "刘之纶",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP003",
+    "name": "丘民仰",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP004",
+    "name": "傅宗龙",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP005",
+    "name": "汪乔年",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP006",
+    "name": "杨文岳",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP007",
+    "name": "孙传庭",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP008",
+    "name": "杨鹤",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP009",
+    "name": "陈奇瑜",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP010",
+    "name": "熊文灿",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP011",
+    "name": "练国事",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP012",
+    "name": "丁启睿",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP013",
+    "name": "郑崇俭",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP014",
+    "name": "邵捷春",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP015",
+    "name": "余应桂",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP016",
+    "name": "高斗枢",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP017",
+    "name": "张任学",
+    "date_original": "明末",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP018",
+    "name": "茅元仪",
+    "date_original": "明代",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  },
+  {
+    "id": "HP019",
+    "name": "李之藻",
+    "date_original": "明代",
+    "opening_screen": "unresolved_or_adult_candidate",
+    "note": "仅基于已有日期字符串机械筛查；未核验原始史料，不能视为生存证明"
+  }
+]

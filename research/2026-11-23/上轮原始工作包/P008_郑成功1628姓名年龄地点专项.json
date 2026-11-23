@@ -1,0 +1,60 @@
+{
+  "id": "P008",
+  "existing_name": "郑成功",
+  "research_topic": "1628年郑成功姓名、年龄与地点的时点隔离",
+  "claims": [
+    {
+      "claim": "郑成功生于1624年，出生地为日本平户",
+      "status": "two_institutional_accounts_concordant_not_strict_primary_source_independence",
+      "sources": [
+        {
+          "institution": "日本国立历史民俗博物馆",
+          "title": "歴史・文化の中の鄭成功（2024-10-28）",
+          "url": "https://www.rekihaku.ac.jp/news/20241028_01.html",
+          "locator": "新闻稿开头简介：鄭成功（1624〜62）、平戸の田川氏の娘と鄭芝龍との間に生まれた"
+        },
+        {
+          "institution": "松浦史料博物馆",
+          "title": "平戸で誕生した、アジアの英雄・鄭成功",
+          "url": "https://www.matsura.or.jp/rekishi/teiseiko/",
+          "locator": "首段：1624年平戸で生まれました"
+        }
+      ],
+      "independence_limit": "两个机构不同，但均为现代叙述，尚未检查其共同史料依据，不能记为严格双独立史源"
+    },
+    {
+      "claim": "1628年不应以郑成功/国姓爷作为当年姓名，福松为幼名，郑森为渡海后姓名",
+      "status": "single_specific_timeline_plus_independent_context",
+      "sources": [
+        {
+          "institution": "郑成功纪念馆（平户）",
+          "title": "郑成功是谁？",
+          "url": "https://teiseikokinenkan.com/zh-CN/about",
+          "locator": "人物介绍：幼名福松、中国名郑森；年表1624年出生、1630年渡海、1645年赐国姓"
+        },
+        {
+          "institution": "松浦史料博物馆",
+          "title": "平戸で誕生した、アジアの英雄・鄭成功",
+          "url": "https://www.matsura.or.jp/rekishi/teiseiko/",
+          "locator": "传记：7岁渡海、21岁获赐朱姓"
+        }
+      ],
+      "independence_limit": "赐姓及渡海年代来自后出机构叙述；需核对同时代材料和历法换算；暂不升级严格双证"
+    }
+  ],
+  "opening_1628_candidate": {
+    "historical_display_name": "福松（候选）",
+    "search_aliases": [
+      "郑成功",
+      "郑森",
+      "国姓爷"
+    ],
+    "approx_age_years": 4,
+    "location": "日本平户（候选）",
+    "recruitable_military_commander": false,
+    "reason": "以1624出生、1630左右渡海的机构年表推断，1628年尚为幼童；不应以成年统帅属性出现",
+    "verification_status": "historical_opening_inference_pending_primary_source",
+    "game_mechanic": "可作为未来人物或家族关联，不以1628年可指挥军队的成人角色生成"
+  },
+  "source_access": "2026-11-23检索到公开正文"
+}

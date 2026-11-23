@@ -1,0 +1,62 @@
+[
+  {
+    "id": "P002",
+    "name": "皇太极",
+    "issue": "传记包含1628年之后的事实，需从开局状态剥离",
+    "status": "pending_independent_sources"
+  },
+  {
+    "id": "P003",
+    "name": "徐光启",
+    "issue": "传记包含1628年之后的事实，需从开局状态剥离",
+    "status": "pending_independent_sources"
+  },
+  {
+    "id": "P004",
+    "name": "宋应星",
+    "issue": "传记包含1628年之后的事实，需从开局状态剥离",
+    "status": "pending_independent_sources"
+  },
+  {
+    "id": "P005",
+    "name": "袁崇焕",
+    "issue": "传记包含1628年之后的事实，需从开局状态剥离",
+    "status": "pending_independent_sources"
+  },
+  {
+    "id": "P007",
+    "name": "郑芝龙",
+    "issue": "传记包含1628年之后的事实，需从开局状态剥离",
+    "status": "pending_independent_sources"
+  },
+  {
+    "id": "P008",
+    "name": "郑成功",
+    "issue": "传记包含1628年之后的事实，需从开局状态剥离",
+    "status": "pending_independent_sources"
+  },
+  {
+    "id": "P009",
+    "name": "李自成",
+    "issue": "传记包含1628年之后的事实，需从开局状态剥离",
+    "status": "pending_independent_sources"
+  },
+  {
+    "id": "P010",
+    "name": "努尔哈赤",
+    "issue": "继承生卒年提示1628年已去世；不得作为在世角色",
+    "status": "pending_independent_sources"
+  },
+  {
+    "id": "P014",
+    "name": "徐霞客",
+    "issue": "传记包含1628年之后的事实，需从开局状态剥离",
+    "status": "pending_independent_sources"
+  },
+  {
+    "id": "P017",
+    "name": "德川家光",
+    "issue": "传记包含1628年之后的事实，需从开局状态剥离",
+    "status": "pending_independent_sources"
+  }
+]
