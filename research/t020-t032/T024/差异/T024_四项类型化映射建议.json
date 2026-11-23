@@ -1,0 +1,126 @@
+[
+  {
+    "recipe_id": "PR55",
+    "recipe_name": "近代军需采购与验收",
+    "facility_id": "U-LG05-01",
+    "facility_name": "总军械库",
+    "tech_id": "LG05",
+    "tech_name": "兵工厂库存与验收",
+    "recipe_tag": "架空推演",
+    "facility_tag": "架空推演",
+    "facility_date": "T3",
+    "tech_date": "T3",
+    "recipe_requires": [
+      "LG05"
+    ],
+    "recipe_facility_text": "总军械库",
+    "tech_unlock_matches": [
+      {
+        "kind": "建筑",
+        "name": "总军械库",
+        "desc": "开放建设或升级选项；不代表已建成。"
+      }
+    ],
+    "existing_recipe_link": false,
+    "facility_links_recipe": false,
+    "tech_backlinks_recipe": true,
+    "recommendation": "将设施引用设为typed facility_id候选，不应仅凭同名自动写入links；在实现端校验建筑已建成、科技已解锁与地区资源可用性。",
+    "historical_status": "游戏架空配方与设施；不得作为1628年已有制度/建筑",
+    "source_verification": "未新增双独立直接史料",
+    "temporal_status": "T阶段为游戏阶段，不是公历年份；1628实际可用性未证",
+    "conflict": "现有科技解锁与配方设施的名称映射不代表建筑已建成"
+  },
+  {
+    "recipe_id": "PR57",
+    "recipe_name": "军港维护服务",
+    "facility_id": "U-LG09-02",
+    "facility_name": "转运军港",
+    "tech_id": "LG09",
+    "tech_name": "海陆联运军需体系",
+    "recipe_tag": "架空推演",
+    "facility_tag": "架空推演",
+    "facility_date": "T4",
+    "tech_date": "T4",
+    "recipe_requires": [
+      "LG09"
+    ],
+    "recipe_facility_text": "转运军港",
+    "tech_unlock_matches": [
+      {
+        "kind": "建筑",
+        "name": "转运军港",
+        "desc": "开放建设或升级选项；不代表已建成。"
+      }
+    ],
+    "existing_recipe_link": false,
+    "facility_links_recipe": false,
+    "tech_backlinks_recipe": true,
+    "recommendation": "将设施引用设为typed facility_id候选，不应仅凭同名自动写入links；在实现端校验建筑已建成、科技已解锁与地区资源可用性。",
+    "historical_status": "游戏架空配方与设施；不得作为1628年已有制度/建筑",
+    "source_verification": "未新增双独立直接史料",
+    "temporal_status": "T阶段为游戏阶段，不是公历年份；1628实际可用性未证",
+    "conflict": "现有科技解锁与配方设施的名称映射不代表建筑已建成"
+  },
+  {
+    "recipe_id": "PR59",
+    "recipe_name": "技术推广教材发行",
+    "facility_id": "U-X20-01",
+    "facility_name": "国家技术推广署",
+    "tech_id": "X20",
+    "tech_name": "全国技术推广与标准网络",
+    "recipe_tag": "架空推演",
+    "facility_tag": "架空推演",
+    "facility_date": "T4",
+    "tech_date": "T4",
+    "recipe_requires": [
+      "X20"
+    ],
+    "recipe_facility_text": "国家技术推广署",
+    "tech_unlock_matches": [
+      {
+        "kind": "建筑",
+        "name": "国家技术推广署",
+        "desc": "开放建设或升级选项；不代表已建成。"
+      }
+    ],
+    "existing_recipe_link": false,
+    "facility_links_recipe": false,
+    "tech_backlinks_recipe": true,
+    "recommendation": "将设施引用设为typed facility_id候选，不应仅凭同名自动写入links；在实现端校验建筑已建成、科技已解锁与地区资源可用性。",
+    "historical_status": "游戏架空配方与设施；不得作为1628年已有制度/建筑",
+    "source_verification": "未新增双独立直接史料",
+    "temporal_status": "T阶段为游戏阶段，不是公历年份；1628实际可用性未证",
+    "conflict": "现有科技解锁与配方设施的名称映射不代表建筑已建成"
+  },
+  {
+    "recipe_id": "PR60",
+    "recipe_name": "公共储粮调度",
+    "facility_id": "U-X04-01",
+    "facility_name": "公共储备仓",
+    "tech_id": "X04",
+    "tech_name": "粮食储备与灾荒救济",
+    "recipe_tag": "架空推演",
+    "facility_tag": "架空推演",
+    "facility_date": "T2",
+    "tech_date": "T2",
+    "recipe_requires": [
+      "X04"
+    ],
+    "recipe_facility_text": "公共储备仓",
+    "tech_unlock_matches": [
+      {
+        "kind": "建筑",
+        "name": "公共储备仓",
+        "desc": "开放建设或升级选项；不代表已建成。"
+      }
+    ],
+    "existing_recipe_link": false,
+    "facility_links_recipe": false,
+    "tech_backlinks_recipe": true,
+    "recommendation": "将设施引用设为typed facility_id候选，不应仅凭同名自动写入links；在实现端校验建筑已建成、科技已解锁与地区资源可用性。",
+    "historical_status": "游戏架空配方与设施；不得作为1628年已有制度/建筑",
+    "source_verification": "未新增双独立直接史料",
+    "temporal_status": "T阶段为游戏阶段，不是公历年份；1628实际可用性未证",
+    "conflict": "现有科技解锁与配方设施的名称映射不代表建筑已建成"
+  }
+]

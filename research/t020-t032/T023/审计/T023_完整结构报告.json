@@ -1,0 +1,18 @@
+{
+  "package": "T023",
+  "date": "2026-11-22",
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "internal_version": "V0.2.60-candidate",
+  "entities": 2476,
+  "geography": 1556,
+  "recipes": 61,
+  "duplicate_ids": [],
+  "blank_names": [],
+  "missing_explicit_links": [],
+  "missing_explicit_links_total": 0,
+  "recipe_requirements_missing": 0,
+  "recipe_facility_name_missing": 0,
+  "recipe_facility_unlinked": 4,
+  "new_double_independent_verified_historical_claims": 0,
+  "limitations": "仅检查数据字段与名称匹配；未核实1628年实际设施、年代与地区普及；无主任务写入权限，未交付主任务合并"
+}

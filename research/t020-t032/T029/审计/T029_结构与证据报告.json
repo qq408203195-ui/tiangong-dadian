@@ -1,0 +1,20 @@
+{
+  "run": "T029",
+  "baseline_version": "V0.2.60-candidate",
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "entity_count": 2476,
+  "geography_count": 1556,
+  "duplicate_id_count": 0,
+  "blank_name_count": 0,
+  "explicit_link_missing_count": 0,
+  "explicit_link_missing_examples": [],
+  "candidate_new_ids": [],
+  "candidate_id_conflicts": 0,
+  "name_ambiguity": "新昌县：ADM-C0272与ADM-C0370；按府县年代消歧",
+  "date_validity": "本轮只审计3项候选的年代逻辑；未完成全库逐条年代核验",
+  "source_independence": "未获得两份真正独立且直接支持同一新史实的原始证据",
+  "new_strict_double_verified_facts": 0,
+  "master_database_modified": false,
+  "main_task_merged": false,
+  "handoff": "本包为可供主任务读取的差异交接件；未能确认主任务实际接收或合并"
+}

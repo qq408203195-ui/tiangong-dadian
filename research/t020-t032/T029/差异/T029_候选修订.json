@@ -1,0 +1,89 @@
+[
+  {
+    "proposal_key": "T029-C01",
+    "subject": "江西瑞州府新昌县后世改称宜丰县",
+    "action": "候选追加带生效年代的检索别名，不修改1628展示名",
+    "existing_entity_ids": [
+      "ADM-C0370",
+      "ADM-P105",
+      "ADM-C0272"
+    ],
+    "claim": "1914年江西新昌县改称宜丰县，1628年仍应使用新昌县",
+    "claim_date": "1914（具体行政命令生效日待核）",
+    "sources": [
+      {
+        "title": "《京师教育报》1914年第9期",
+        "locator": "附录第8页，宜丰县条；待重新核对原刊影像",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/NLC404-01J000120-6370_%E4%BA%AC%E5%B8%AB%E6%95%99%E8%82%B2%E5%A0%B1_1914%E5%B9%B49%E6%9C%9F.pdf",
+        "independence_group": "民国同期教育报"
+      },
+      {
+        "title": "宜丰县历史沿革（行政区划网）",
+        "locator": "历史沿革首段",
+        "url": "https://www.xzqh.org/html/show/jx/11320.html",
+        "independence_group": "现代地方沿革汇编"
+      },
+      {
+        "title": "历史知识·新昌县",
+        "locator": "第二义项",
+        "url": "https://www.guoxuedashi.com/lishi/62143q/",
+        "independence_group": "现代历史辞书转录"
+      }
+    ],
+    "verification": "两类现代资料与前轮同期报刊文字方向一致，但未逐页复核原报，现代资料可能共享底本；不满足两份独立直接原始来源",
+    "strict_double_verified": false,
+    "conflict": "具体改名批准日、实施日未复核；不能将1914现代别名反写1628",
+    "game_mapping": "历史地名检索层；不触发科技树或生产设施"
+  },
+  {
+    "proposal_key": "T029-C02",
+    "subject": "新昌县地名双实体的来源谱系",
+    "action": "建议为两县分别建立带行政隶属、年代的地名匹配键",
+    "existing_entity_ids": [
+      "ADM-C0272",
+      "ADM-P097",
+      "ADM-C0370",
+      "ADM-P105"
+    ],
+    "sources": [
+      {
+        "title": "《江西通志》沿革志",
+        "locator": "第三册，新昌县沿革条，检索片段可见“元明仍旧”及瑞州府关联；具体页码待核原PDF",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/NLC892-411999011253-302504_%E6%B1%9F%E8%A5%BF%E9%80%9A%E5%BF%97_%E7%AC%AC3%E5%86%8A.pdf",
+        "independence_group": "清代江西地方志"
+      },
+      {
+        "title": "《大明会典》卷十五·户部·州县一",
+        "locator": "江西瑞州府、浙江绍兴府条；原库继承，未本轮重验",
+        "url": "https://www.shidianguji.com/book/CADAL02088024/chapter/1lddg7ytgo7jo",
+        "independence_group": "明代官修会典"
+      }
+    ],
+    "verification": "仅数据库内部府县映射已确认；独立史料逐页核验未完成",
+    "strict_double_verified": false,
+    "conflict": "清代后出汇编与明代政区应分时段，不以清代地名替代1628",
+    "game_mapping": "地方水利事件仅候选关联ADM-C0272；科技B01与建筑U-B01-02为类型级关联，非自动建成"
+  },
+  {
+    "proposal_key": "T029-C03",
+    "subject": "地方水利设施历史存在与游戏可建造状态拆分",
+    "action": "建议新增证据状态字段和生产可用性判定逻辑，不直接修改节点",
+    "existing_entity_ids": [
+      "ADM-C0272",
+      "B01",
+      "U-B01-02"
+    ],
+    "sources": [
+      {
+        "title": "《绍兴府志》水利条",
+        "locator": "后溪堤、孝行砩条，原刻未核",
+        "url": "https://www.shidianguji.com/mid-page/7443923777634992178",
+        "independence_group": "清代府志转引万历志"
+      }
+    ],
+    "verification": "单一转引链；工程存在、1628存续、地区普及和产能均未达双独立证据",
+    "strict_double_verified": false,
+    "conflict": "砩字形与设施名称存在异文",
+    "game_mapping": "科技B01解锁可建造U-B01-02；实际产能仍要求地理位置、设施完工、维护、资源及劳力条件"
+  }
+]

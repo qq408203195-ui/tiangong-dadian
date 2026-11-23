@@ -1,0 +1,82 @@
+[
+  {
+    "proposal_key": "T028-C01",
+    "subject": "绍兴府新昌县水利个案：后溪堤与孝行砩",
+    "action": "细化T026水利候选的两条事件，不创建实体ID",
+    "existing_entity_ids": [
+      "ADM-C0272",
+      "ADM-P097",
+      "B01",
+      "U-B01-02"
+    ],
+    "source": {
+      "work": "清修《绍兴府志》水利志（新昌县相关条）",
+      "locator": "识典古籍 mid-page/7443923777634992178；条目“后溪堤”“孝行砩”",
+      "url": "https://www.shidianguji.com/mid-page/7443923777634992178",
+      "source_chain": "后出府志转引万历志，计同一证据链",
+      "image_verified": false
+    },
+    "claims": [
+      {
+        "claim": "后溪堤在新昌县西十里，万历初洪水冲毁后知县田琯修筑",
+        "time": "万历初（具体年未核）",
+        "status": "单一转引链，待核原万历志及独立证据"
+      },
+      {
+        "claim": "万历三年旱后田琯组织孝行砩修濬，万历五年筑堰并设闸",
+        "time": "1575、1577（按年号换算）",
+        "status": "单一转引链，原文字形与工程细节待原刻本复核"
+      }
+    ],
+    "1628_status": "设施在1628是否仍存、可运行、灌溉范围均未知",
+    "game_mapping": "可作为地方修浚事件候选；不得据此赋予全境灌溉或产能",
+    "conflict": "在线文本“砩/佛/砽”等异字混杂；名称及形制暂不标准化",
+    "independent_source_count": 1,
+    "strict_double_verified": false
+  },
+  {
+    "proposal_key": "T028-C02",
+    "subject": "江西瑞州府新昌县的后世改名与同名消歧",
+    "action": "建议为ADM-C0370添加“宜丰县”后世检索别名，但须带1914年起有效标记",
+    "existing_entity_ids": [
+      "ADM-C0370",
+      "ADM-P105",
+      "ADM-C0272"
+    ],
+    "source": {
+      "work": "《京师教育报》1914年第9期《江西省各县名称及沿革》",
+      "locator": "附录第8页，宜丰县条",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/NLC404-01J000120-6370_%E4%BA%AC%E5%B8%AB%E6%95%99%E8%82%B2%E5%A0%B1_1914%E5%B9%B49%E6%9C%9F.pdf",
+      "source_chain": "民国同时期文献，独立于明代《大明会典》行政名录"
+    },
+    "claim": "民国三年一月，江西新昌县因与浙江重名改称宜丰县",
+    "time": "1914-01",
+    "status": "1914同期一份直接来源；第二独立直接来源待补",
+    "strict_double_verified": false,
+    "game_mapping": "1628展示名称仍为新昌县，宜丰县仅现代/后世检索别名",
+    "conflict": "后世名称不能反写1628政区名称"
+  },
+  {
+    "proposal_key": "T028-C03",
+    "subject": "绍兴府地方水利文本的证据独立性",
+    "action": "新增来源依赖提示，不提高核验等级",
+    "existing_entity_ids": [
+      "ADM-C0272",
+      "B01",
+      "U-B01-02"
+    ],
+    "sources": [
+      {
+        "work": "清修《绍兴府志》水利志",
+        "url": "https://www.shidianguji.com/mid-page/7443923777634992178"
+      },
+      {
+        "work": "《敕修浙江通志》卷57水利六绍兴府",
+        "url": "https://zh.wikisource.org/zh-hant/浙江通志_(四庫全書本)/卷057"
+      }
+    ],
+    "finding": "两部清代汇编均可检索到转引万历绍兴府志的文本；转引同一早期志书时不计两条独立证据。浙江通志所载府河、三江闸等内容也不能自动证明新昌县具体工程",
+    "status": "史料谱系与适用范围审计，不是新增双独立事实",
+    "strict_double_verified": false
+  }
+]

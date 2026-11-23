@@ -1,0 +1,456 @@
+[
+  {
+    "batch": "T020",
+    "archive": "T020/T020.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T020_%E5%A4%A9%E5%B7%A5%E5%BC%80%E7%89%A9%E5%87%BA%E7%89%88%E4%B8%8E%E5%B7%A5%E8%89%BA%E6%96%AD%E4%BB%A3_%E7%8B%AC%E7%AB%8B%E.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-21",
+    "version": "V0.2.60-candidate",
+    "bytes": 282270,
+    "sha256": "ba56251d5aae2a0d385e9a7fc2a8372f3ea1a960cbfa5e7600467e2f797c0069",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "上轮T019/差异/T019_15项名称映射待审.json",
+        "bytes": 6352,
+        "sha256": "3c6b4f83db3a21953f7d647c3f0dd259202d0dcf88224786cc7c3f0bd9781603"
+      },
+      {
+        "path": "上轮T019/审计/T019_检查报告.json",
+        "bytes": 783,
+        "sha256": "54e770e06d9c1ad883c8095922d34591f863d4e28297392bf6f7a0388e01cb1d"
+      },
+      {
+        "path": "差异/T020_既有实体修订建议.json",
+        "bytes": 3209,
+        "sha256": "640936429a4f519c459b43b697bbccb2d1cb840a344890bdd198525395486691"
+      },
+      {
+        "path": "审计/T020_检查报告.json",
+        "bytes": 589,
+        "sha256": "65d6502ff5c0eb4b20e1fd92824454a81a41bc12e16b797c2b4db3d5c84dbe8e"
+      },
+      {
+        "path": "README.md",
+        "bytes": 130,
+        "sha256": "9d3c8f6384504f1cef7e583fcebb48357d928add7479effe1d60ff3238e819d0"
+      }
+    ]
+  },
+  {
+    "batch": "T021",
+    "archive": "T021/T021.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T021_%E7%A7%91%E6%8A%80%E5%89%8D%E7%BD%AE%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B%E5%AE%A1%E8%AE%A1_%E7%8B%AC%E7%AB%8B%E5%8C%85.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-21",
+    "version": "V0.2.60-candidate",
+    "bytes": 281715,
+    "sha256": "d3d17c5f9fe72e3b27f519b201d14e449cbc0172c1c5ed80c432e5ecf711700f",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "差异/T021_科技前置类型差异.json",
+        "bytes": 1344,
+        "sha256": "6c0bf078ab134f5b8dd4dbb67c4c12070a234ba45e632d18d7b48b56f2d3449d"
+      },
+      {
+        "path": "审计/T021_结构审计.json",
+        "bytes": 428,
+        "sha256": "2094e2a23246dc8c5c54d3ee716dd225a3503f089b64a1570c5dc7af9464e232"
+      },
+      {
+        "path": "上轮T020/差异建议.json",
+        "bytes": 3209,
+        "sha256": "640936429a4f519c459b43b697bbccb2d1cb840a344890bdd198525395486691"
+      },
+      {
+        "path": "README.md",
+        "bytes": 632,
+        "sha256": "e99899b53194cae68864fde18ca68b45f0fb5c5ae768656c7ea4995a83c70693"
+      }
+    ]
+  },
+  {
+    "batch": "T022",
+    "archive": "T022/T022.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T022_%E5%8D%B0%E5%88%B7%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%B7%A8%E5%AE%9E%E4%BD%93%E6%98%A0%E5%B0%84%E5%AE%A1%E8%AE%A1_%E7%8B%AC%E.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-21",
+    "version": "V0.2.60-candidate",
+    "bytes": 270623,
+    "sha256": "1b37a27623f7f0eb1c328787d58de6a77a7df6332c86ed7aaad31f1528d2e4f5",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "上轮T021/差异.json",
+        "bytes": 1344,
+        "sha256": "6c0bf078ab134f5b8dd4dbb67c4c12070a234ba45e632d18d7b48b56f2d3449d"
+      },
+      {
+        "path": "差异/T022_五项候选修订.json",
+        "bytes": 1454,
+        "sha256": "0b40df783e1fdef12f1128622c28e546fb74fbc0ee18c56671ed008af9ffcaf0"
+      },
+      {
+        "path": "审计/T022_关联实体与字段清单.json",
+        "bytes": 5396,
+        "sha256": "d6c4975590b19b40046eacb2d7ec06d1261ce99c57b3536d279e523dbd554579"
+      },
+      {
+        "path": "审计/T022_结构与核验报告.json",
+        "bytes": 671,
+        "sha256": "a207c86988a7444e0a805c561cf127336b62addc04152690f9f61607af553a46"
+      },
+      {
+        "path": "README.md",
+        "bytes": 414,
+        "sha256": "533f22b4ddf5c887e02000f8f37e7b95d465b0acbb3894e3961bf349d280e7e6"
+      }
+    ]
+  },
+  {
+    "batch": "T023",
+    "archive": "T023/T023.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T023_%E7%94%9F%E4%BA%A7%E9%85%8D%E6%96%B9%E8%AE%BE%E6%96%BD%E5%BC%95%E7%94%A8%E4%B8%80%E8%87%B4%E6%80%A7_%E7%8B%AC%E7%AB%8B%E.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-21",
+    "version": "V0.2.60-candidate",
+    "bytes": 280792,
+    "sha256": "d2704cf96554dbc0ae789df600ebba9ea2ca8fbfdbc24dd58df07fa4eaa5ca7a",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "上轮T022/五项候选修订.json",
+        "bytes": 1454,
+        "sha256": "0b40df783e1fdef12f1128622c28e546fb74fbc0ee18c56671ed008af9ffcaf0"
+      },
+      {
+        "path": "差异/T023_四项设施映射候选.json",
+        "bytes": 2516,
+        "sha256": "1d39b6d6d37631ec7e099cbb9bea5ac32e6631856094af119bfc4bd272d48e50"
+      },
+      {
+        "path": "审计/T023_完整结构报告.json",
+        "bytes": 680,
+        "sha256": "127fac32d9c8853618a74d7c604c6ec9befe5db27b8c040cf02fed1a1e36a793"
+      },
+      {
+        "path": "README.md",
+        "bytes": 534,
+        "sha256": "22948d97b8a16718890b76b2c91342cf8672b7cedea9fbfb8eff32ebeeddd590"
+      }
+    ]
+  },
+  {
+    "batch": "T024",
+    "archive": "T024/T024.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T024_%E8%AE%BE%E6%96%BD%E8%A7%A3%E9%94%81%E6%97%B6%E6%80%81%E4%B8%8E%E7%B1%BB%E5%9E%8B%E5%8C%96%E5%85%B3%E8%81%94_%E7%8B%AC%E.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-22",
+    "version": "V0.2.60-candidate",
+    "bytes": 269779,
+    "sha256": "d7b2bcf3184cc926c36fefc8e7e488de596807a2a8ed0218d15cc627bb2de02d",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "上轮T023/四项候选.json",
+        "bytes": 2516,
+        "sha256": "1d39b6d6d37631ec7e099cbb9bea5ac32e6631856094af119bfc4bd272d48e50"
+      },
+      {
+        "path": "差异/T024_四项类型化映射建议.json",
+        "bytes": 5031,
+        "sha256": "78c89fbae031af0e675e12c41babfb024120a93c0719c51017432b46e496be73"
+      },
+      {
+        "path": "审计/T024_结构与时态报告.json",
+        "bytes": 926,
+        "sha256": "65126de2c6d572160c71ad4adefbcd51361567e3ad6a4f451e363d9854519c2a"
+      },
+      {
+        "path": "README.md",
+        "bytes": 289,
+        "sha256": "a32ca05c4cf9b7cc79ab528a69bdb315a8b4b78ad80cbee777ea288d59d8d8ed"
+      }
+    ]
+  },
+  {
+    "batch": "T025",
+    "archive": "T025/T025.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T025_%E5%86%9C%E7%94%B0%E6%B0%B4%E5%88%A9%E6%8A%80%E6%9C%AF%E5%8F%B2%E6%96%99%E8%B0%B1%E7%B3%BB_%E7%8B%AC%E7%AB%8B%E5%8C%85.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-22",
+    "version": "V0.2.60-candidate",
+    "bytes": 270988,
+    "sha256": "07c3a3ba304ff82818e4d9515b69cd50329b3da26e3b664db587f0e5f9b0093d",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "上轮T024/四项类型化映射建议.json",
+        "bytes": 5031,
+        "sha256": "78c89fbae031af0e675e12c41babfb024120a93c0719c51017432b46e496be73"
+      },
+      {
+        "path": "差异/T025_水利技术候选.json",
+        "bytes": 3647,
+        "sha256": "d296e7df49ec0d03199bb8a2081169f9b15eab0a0665448dbd05e1c28e59e532"
+      },
+      {
+        "path": "审计/T025_结构检查.json",
+        "bytes": 687,
+        "sha256": "eb61b4c7c7ef37b067c718ab4d1c61de76615c875ba695b6246b909a24303ed9"
+      },
+      {
+        "path": "审计/T025_关联实体快照.json",
+        "bytes": 1439,
+        "sha256": "9961588877e7fd530d81db89d211e438e55db2913b9aae04fa7a4ef0ef0216ef"
+      },
+      {
+        "path": "README.md",
+        "bytes": 197,
+        "sha256": "cd89d155b139d243db4d0ff4d8f561725c2fd13be255562dd6e43008ef5163c7"
+      }
+    ]
+  },
+  {
+    "batch": "T026",
+    "archive": "T026/T026.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T026_%E4%B8%87%E5%8E%86%E6%96%B0%E6%98%8C%E6%B0%B4%E5%88%A9%E5%9C%B0%E6%96%B9%E8%AE%B0%E8%BD%BD%E4%B8%8E%E5%90%8C%E5%90%8D%E5.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-22",
+    "version": "V0.2.60-candidate",
+    "bytes": 270897,
+    "sha256": "825ae3d8d4dc2ea15ba26534fea6540effab9e782521018a21e179837065c6e2",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "上轮T025/水利技术候选.json",
+        "bytes": 3647,
+        "sha256": "d296e7df49ec0d03199bb8a2081169f9b15eab0a0665448dbd05e1c28e59e532"
+      },
+      {
+        "path": "差异/T026_地方水利证据与地理映射.json",
+        "bytes": 2418,
+        "sha256": "28da4fa99fa33e82bf478c12063ced856b5998c6703a0dfcb4c86333093308d7"
+      },
+      {
+        "path": "审计/T026_结构与证据报告.json",
+        "bytes": 794,
+        "sha256": "32490262ab2cd0e1f516187dbcde0d05be1f902353c51660a2043599c341f64d"
+      },
+      {
+        "path": "README.md",
+        "bytes": 197,
+        "sha256": "03f8e48578145e2e664ab26faed50ff367bcefc293452c8fa1332bf11ce1058e"
+      }
+    ]
+  },
+  {
+    "batch": "T027",
+    "archive": "T027/T027.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T027_%E7%BB%8D%E5%85%B4%E6%96%B0%E6%98%8C%E6%B0%B4%E5%88%A9%E5%9C%B0%E7%90%86%E6%B6%88%E6%AD%A7_%E7%8B%AC%E7%AB%8B%E5%8C%85.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-22",
+    "version": "V0.2.60-candidate",
+    "bytes": 281726,
+    "sha256": "937251fa2af5eacd37f62c1054644f184ef74739b17897fa3fc85128427d559e",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "上轮T026/地方水利证据与地理映射.json",
+        "bytes": 2418,
+        "sha256": "28da4fa99fa33e82bf478c12063ced856b5998c6703a0dfcb4c86333093308d7"
+      },
+      {
+        "path": "差异/T027_候选修订.json",
+        "bytes": 2018,
+        "sha256": "fde0c3c27cd53da1ae8c5ec4ec8e0e05d3081eaac6f5bd71c5adb1375c302a7d"
+      },
+      {
+        "path": "审计/T027_结构与证据报告.json",
+        "bytes": 869,
+        "sha256": "885560fdb7b2f8afcd509b5c780f6126dd2d4ff70ce78e3e0fd9900eb4796bbb"
+      },
+      {
+        "path": "README.md",
+        "bytes": 153,
+        "sha256": "c72dd21e4167d07a920bee64597b9af87aea645a3027bd3d112999119cfd8e91"
+      }
+    ]
+  },
+  {
+    "batch": "T029",
+    "archive": "T029/T029.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T029_%E6%96%B0%E6%98%8C%E5%9C%B0%E5%90%8D%E5%8F%B2%E6%96%99%E4%BA%A4%E5%8F%89%E6%A0%B8%E9%AA%8C%E4%B8%8E%E6%B0%B4%E5%88%A9%E6.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-22",
+    "version": "V0.2.60-candidate",
+    "bytes": 271718,
+    "sha256": "e483d1faeb651b22a0d1b57a5ed43556aa47f4f8deb05b8dc1a684063d69f414",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "上轮T028/候选修订.json",
+        "bytes": 3581,
+        "sha256": "f34fa905f253e9061b91390aa71932a1d8af700b70b7b0f76be9a58d29484048"
+      },
+      {
+        "path": "差异/T029_候选修订.json",
+        "bytes": 4031,
+        "sha256": "9cfe6c1e3bf54e911ca995fcd8c79f79e8e79ff0243baa468274f43fde84a788"
+      },
+      {
+        "path": "审计/T029_结构与证据报告.json",
+        "bytes": 886,
+        "sha256": "ae65a7ed174ec9e157070b27df5fb1548cd51ec0cdb664af8bec616a73b8b260"
+      },
+      {
+        "path": "README.md",
+        "bytes": 126,
+        "sha256": "06a93adfe03949f786169f8b3410478656ca9a9cb970328ec2498280003db59d"
+      }
+    ]
+  },
+  {
+    "batch": "T030",
+    "archive": "T030/T030.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T030_%E5%BC%80%E5%B1%80%E7%A7%91%E6%8A%80%E5%90%8E%E5%87%BA%E6%96%87%E7%8C%AE%E5%BC%95%E7%94%A8%E5%AE%A1%E8%AE%A1_%E7%8B%AC%E.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-23",
+    "version": "V0.2.60-candidate",
+    "bytes": 270981,
+    "sha256": "d71881c6b64c5d9f916b9f9948429d3619d92cbd92f0f7e2cf7ddc8ed42862d8",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "上轮T029/候选修订.json",
+        "bytes": 4031,
+        "sha256": "9cfe6c1e3bf54e911ca995fcd8c79f79e8e79ff0243baa468274f43fde84a788"
+      },
+      {
+        "path": "差异/T030_候选修订.json",
+        "bytes": 11882,
+        "sha256": "f601d6da356314c592b1a3ecc014d6a886aa4f0c1542722bc157ad23b36990f3"
+      },
+      {
+        "path": "审计/T030_结构与时序报告.json",
+        "bytes": 1074,
+        "sha256": "10019da03588db7eed165679d4f92e8b11e499f298af70d968ec905a7655ae60"
+      },
+      {
+        "path": "README.md",
+        "bytes": 192,
+        "sha256": "702bd33b76e2f62b2b79fed6b72509b59f6a1259a6680cbe3ae47681dd5291c1"
+      }
+    ]
+  },
+  {
+    "batch": "T031",
+    "archive": "T031/T031.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T031_%E6%B4%BB%E5%AD%97%E5%8D%B0%E5%88%B7%E5%B7%A5%E8%89%BA%E7%8B%AC%E7%AB%8B%E6%96%87%E6%9C%AC%E5%AF%B9%E8%AF%BB_%E7%8B%AC%E.zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-23",
+    "version": "V0.2.60-candidate",
+    "bytes": 280676,
+    "sha256": "87c629e0f5875a2316249da35e890e991bf416a9ed664aabc031d70d3c36be9a",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "差异/T031_印刷工艺独立文本候选.json",
+        "bytes": 2134,
+        "sha256": "b6aacefadc9685c86e40165c20f57622670a22fe9ccd751dc5144b48bb2040b0"
+      },
+      {
+        "path": "差异/T031_实体快照.json",
+        "bytes": 1140,
+        "sha256": "ca4a92c14e1fa988a6e183d510d2c4f76385d8143ddf75f8951212920136d544"
+      },
+      {
+        "path": "审计/T031_结构审计.json",
+        "bytes": 799,
+        "sha256": "22c741de2a091e69291247fcb915ac399c55741528bf446eedc1958c866560b7"
+      },
+      {
+        "path": "README.md",
+        "bytes": 162,
+        "sha256": "a5a5f1c6d1d70219775c3e766881459938f603c182edb02711255bf055f1b18e"
+      }
+    ]
+  },
+  {
+    "batch": "T032",
+    "archive": "T032/T032.zip",
+    "download_name": "%E5%A4%A9%E5%B7%A5%E5%A4%A7%E5%85%B8_%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E5%88%B6%E5%BA%A6_T032_%E6%98%8E%E4%BB%A3%E9%93%9C%E6%B4%BB%E5%AD%97%E5%8D%B0%E5%88%B7%E5%9C%B0%E5%9F%9F%E5%AE%9E%E8%AF%81%E5%80%99%E9%80% (10).zip",
+    "source": "科技产业与制度",
+    "zip_member_date": "2026-11-23",
+    "version": "V0.2.60-candidate",
+    "bytes": 269356,
+    "sha256": "4f1b79da3ad22a3644519fa992bbd794ffd0194dff9bf378b6fa84b5c879a0de",
+    "members": [
+      {
+        "path": "只读基线/完整数据库.json",
+        "bytes": 4957601,
+        "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52"
+      },
+      {
+        "path": "差异/T032_候选修订.json",
+        "bytes": 2960,
+        "sha256": "4657f9c0abe931e3dc468490d0ad3449c894ad08be976ffb6c91c626a1cf9e42"
+      },
+      {
+        "path": "审计/T032_结构及年代边界.json",
+        "bytes": 483,
+        "sha256": "c77c65ddf7dc7cafeb0629d1a5b3c21e425a313ebcb43ec49385f84f36519c8c"
+      },
+      {
+        "path": "README.md",
+        "bytes": 243,
+        "sha256": "9da16afac605f3a21f75ed8cf7ee9eea0ffc80797f2565035b6a85c3ad0c6538"
+      }
+    ]
+  }
+]

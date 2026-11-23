@@ -1,0 +1,15 @@
+{
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "baseline_internal_version": "V0.2.60-candidate",
+  "entries": 2476,
+  "geography_count": 1556,
+  "duplicate_ids": [],
+  "empty_names": [],
+  "explicit_link_targets_missing": [],
+  "missing_link_total": 0,
+  "candidate_id_conflicts": [],
+  "existing_target_ids_valid": true,
+  "candidate_date_notes": "无新实体ID；元代原典与1639刊本分开；1628普及和具体使用地点未证",
+  "strict_new_two_independent_source_verified_facts": 0,
+  "limitations": "仅审计显式links；没有把书籍相互转引视作独立证据；未验证所有data内隐式引用和全部年代。"
+}

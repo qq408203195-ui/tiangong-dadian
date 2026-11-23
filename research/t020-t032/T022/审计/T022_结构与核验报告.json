@@ -1,0 +1,17 @@
+{
+  "package": "T022",
+  "baseline_file": "T021/只读基线/完整数据库.json",
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "internal_version": "V0.2.60-candidate",
+  "entity_count": 2476,
+  "geography_count": 1556,
+  "duplicate_ids": 0,
+  "blank_names": 0,
+  "broken_explicit_links": [],
+  "candidate_new_ids": [],
+  "new_double_independent_verified_facts": 0,
+  "historical_date_verification": "not_performed",
+  "candidate_id_conflicts": 0,
+  "status": "not_merged",
+  "limitations": "本轮只做跨实体与配方设计审计；史实断代、工艺传播和地域普及均未达到双独立直接来源标准。"
+}

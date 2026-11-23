@@ -1,0 +1,78 @@
+[
+  {
+    "target_id": "B01",
+    "action": "补充限定史实证据与技术层级",
+    "claim": "《王祯农书》卷十八《农器图谱·灌溉门》载水栅及多种灌溉器具，证明相关技术在1628年前已有文字记载，但不证明明末全国普及。",
+    "primary_source": {
+      "author": "王祯",
+      "work": "王祯农书",
+      "locator": "卷十八，农器图谱之十三，灌溉门，水栅条",
+      "url": "https://zh.wikisource.org/zh/王禎農書/卷十八",
+      "time": "元代，早于1628"
+    },
+    "second_source": {
+      "author": "徐光启纂辑",
+      "work": "农政全书",
+      "locator": "卷十七，水利·灌溉图谱，王祯曰段",
+      "url": "https://www.shidianguji.com/zh/book/HY1559/chapter/1knxgwz508xlw",
+      "time": "1639刊本"
+    },
+    "independence": "不成立：后书明示引录王祯，同源转引，不计双独立核验",
+    "verification_status": "单一原始著作直接证据，第二见证依赖，待独立证据",
+    "game_implication": "拆分器具存在、地区普及、可造条件和本地建设状态",
+    "candidate_id": null,
+    "merge_status": "仅建议，未写入主库",
+    "conflict": "文本转引与技术普及容易混淆",
+    "date_applicability": "1628适用性未独立核验"
+  },
+  {
+    "target_id": "A06",
+    "action": "修订技术树历史原型和架空边界",
+    "claim": "《农政全书》卷十九《泰西水法上》载龙尾车结构与用途，但刊本晚于1628，不能由此直接判定1628年各地已制造或推广。",
+    "primary_source": {
+      "author": "徐光启纂辑",
+      "work": "农政全书",
+      "locator": "卷十九，水利·泰西水法上，龙尾车条",
+      "url": "https://www.shidianguji.com/zh/book/HY1559/chapter/1knxgx320u8ss",
+      "time": "1639刊本"
+    },
+    "second_source": null,
+    "independence": "尚缺第二独立直接原始史料及1628前的制造应用记录",
+    "verification_status": "单源文本确认，1628可用性待核",
+    "game_implication": "研发节点保留架空；需要水源地形、木工铁工、动力与维护能力的游戏前置，不作为史实",
+    "candidate_id": null,
+    "merge_status": "仅建议，未写入主库",
+    "conflict": "文本转引与技术普及容易混淆",
+    "date_applicability": "1628适用性未独立核验"
+  },
+  {
+    "target_id": "BK002",
+    "related_ids": [
+      "EV008",
+      "P003"
+    ],
+    "action": "补充出版与技术出现时点隔离",
+    "claim": "《农政全书》后出刊本与其中所收前代文献应分别断代；不能将1639刊行等同于书中所有技术始创年代。",
+    "primary_source": {
+      "author": "徐光启纂辑",
+      "work": "农政全书",
+      "locator": "卷十七王祯曰引文、卷十九泰西水法上",
+      "url": "https://www.shidianguji.com/zh/book/HY1559/chapter/1knxgwz508xlw",
+      "time": "后出刊本"
+    },
+    "second_source": {
+      "author": "王祯",
+      "work": "王祯农书",
+      "locator": "卷十八灌溉门",
+      "url": "https://zh.wikisource.org/zh/王禎農書/卷十八",
+      "time": "元代"
+    },
+    "independence": "可直接比较文本的继承关系，不是对1639刊年或1628普及的双证",
+    "verification_status": "文本谱系观察；刊年与普及仍待独立证据",
+    "game_implication": "典籍事件、技术已有、知识传播分别设置时点",
+    "candidate_id": null,
+    "merge_status": "仅建议，未写入主库",
+    "conflict": "文本转引与技术普及容易混淆",
+    "date_applicability": "1628适用性未独立核验"
+  }
+]

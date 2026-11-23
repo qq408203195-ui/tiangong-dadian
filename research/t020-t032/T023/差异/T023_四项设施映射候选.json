@@ -1,0 +1,77 @@
+[
+  {
+    "entity_id": "PR55",
+    "name": "近代军需采购与验收",
+    "existing_facility_name": "总军械库",
+    "existing_facility_id": "U-LG05-01",
+    "current_links": [
+      "LG05",
+      "RES-030",
+      "RES-008",
+      "RES-046"
+    ],
+    "suggestion": "待确认该生产配方确实依赖此设施后，将现有设施ID纳入links；保留原ID，不修改原始数据",
+    "verification": "结构候选；非历史事实",
+    "time_validation": "未核实设施在1628年存在及可用性",
+    "conflict": "名称唯一匹配不等于语义或年代适配",
+    "tech_tree_relation": [
+      "LG05"
+    ]
+  },
+  {
+    "entity_id": "PR57",
+    "name": "军港维护服务",
+    "existing_facility_name": "转运军港",
+    "existing_facility_id": "U-LG09-02",
+    "current_links": [
+      "LG09",
+      "RES-008",
+      "U-B07-02",
+      "RES-048"
+    ],
+    "suggestion": "待确认该生产配方确实依赖此设施后，将现有设施ID纳入links；保留原ID，不修改原始数据",
+    "verification": "结构候选；非历史事实",
+    "time_validation": "未核实设施在1628年存在及可用性",
+    "conflict": "名称唯一匹配不等于语义或年代适配",
+    "tech_tree_relation": [
+      "LG09"
+    ]
+  },
+  {
+    "entity_id": "PR59",
+    "name": "技术推广教材发行",
+    "existing_facility_name": "国家技术推广署",
+    "existing_facility_id": "U-X20-01",
+    "current_links": [
+      "X20",
+      "RES-014",
+      "U-B06-02",
+      "RES-050"
+    ],
+    "suggestion": "待确认该生产配方确实依赖此设施后，将现有设施ID纳入links；保留原ID，不修改原始数据",
+    "verification": "结构候选；非历史事实",
+    "time_validation": "未核实设施在1628年存在及可用性",
+    "conflict": "名称唯一匹配不等于语义或年代适配",
+    "tech_tree_relation": [
+      "X20"
+    ]
+  },
+  {
+    "entity_id": "PR60",
+    "name": "公共储粮调度",
+    "existing_facility_name": "公共储备仓",
+    "existing_facility_id": "U-X04-01",
+    "current_links": [
+      "X04",
+      "RES-024",
+      "RES-051"
+    ],
+    "suggestion": "待确认该生产配方确实依赖此设施后，将现有设施ID纳入links；保留原ID，不修改原始数据",
+    "verification": "结构候选；非历史事实",
+    "time_validation": "未核实设施在1628年存在及可用性",
+    "conflict": "名称唯一匹配不等于语义或年代适配",
+    "tech_tree_relation": [
+      "X04"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "candidate_key": "T031-PRINT-01",
+    "operation": "revise_evidence_only",
+    "target_id": "B06",
+    "name": "造纸与印刷",
+    "claim": "1628年以前中国已有活字排印的工艺记载；泥活字与木活字为不同工艺，不能合并成单一工序。",
+    "evidence": [
+      {
+        "author": "沈括",
+        "work": "梦溪笔谈",
+        "locator": "卷十八·技艺·活板条",
+        "period": "北宋",
+        "url": "https://www.shidianguji.com/book/SDZJ0238/chapter/1k0gpn3hya8mq",
+        "supports": "泥活字排版、印刷、拆版原理；需核对原刻影像具体段落",
+        "independent_family": "沈括原著"
+      },
+      {
+        "author": "王祯",
+        "work": "王祯农书",
+        "locator": "卷二十二·造活字印书法（写韵刻字、锼字修字、造轮、取字、刷印）",
+        "period": "元代（1313年成书）",
+        "url": "https://zh.wikisource.org/zh-hans/王祯农书/卷二十二",
+        "supports": "木活字刻字、排版、韵轮取字、刷印操作",
+        "independent_family": "王祯原著"
+      }
+    ],
+    "independence_assessment": "两位不同时代作者的不同直接工艺记录，能共同证明1628年前活字印刷技术谱系已存在；不共同证明木活字的地域普及、成本或产量。",
+    "verification_status": "限定事实双独立文本交叉支持；原刻影像未核，不升格为严格原刻双证",
+    "historical_availability": "原理与工艺文本存在",
+    "regional_prevalence": "未核",
+    "production_capacity": "未核",
+    "game_inference": "建议B06拆分雕版、泥活字、木活字工艺标签，工坊/工匠/材料与地方采用分离；不直接新增科技ID",
+    "linked_existing_ids": [
+      "B06",
+      "U-B06-01",
+      "FAC-016",
+      "E04",
+      "PR26"
+    ],
+    "date_validity": "两部原著均早于1628；网页数字转录版本晚于1628，仅作检索载体",
+    "conflicts": "沈括记载泥活字，王祯记载木活字，不能以相同工艺视之；王祯对前代工艺的追述不是沈括记载的独立见证"
+  }
+]
