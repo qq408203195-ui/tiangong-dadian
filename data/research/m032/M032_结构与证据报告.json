@@ -1,0 +1,18 @@
+{
+  "baseline_version": "V0.2.60-candidate",
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "entities": 2476,
+  "geo_entities": 1556,
+  "duplicate_id_count": 0,
+  "blank_name_count": 0,
+  "forward_missing_count": 0,
+  "forward_missing_sample": [],
+  "candidate_target_exists": true,
+  "candidate_related_missing": [],
+  "candidate_new_ids": [],
+  "candidate_date_validity": "嘉靖史料早于1628；只能证明史料存在，不能证明1628年实装；全库断代未逐事实完成",
+  "strict_new_verified_facts": 0,
+  "merged_to_main": false,
+  "source_independence_note": "卷十三明署“参将戚继光云”，《筹海图编》对该段属转引，不能作为与戚氏原著独立的第二证",
+  "scope_limit": "links显式前向关系机械检查，非所有嵌套隐式关系或史实审计"
+}
