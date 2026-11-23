@@ -1,0 +1,50 @@
+[
+  {
+    "target_id": "HP002",
+    "target_name": "刘之纶",
+    "operation": "新增史料校勘旁注；不改主库",
+    "claim": "《明史》卷261考证指出刘之纶传关于遵化陷落的日次有误，考证按本纪干支推为崇祯二年十一月四日；这是同一部史书内部校勘，不能视为双独立证据。",
+    "time_scope": "1629-11（农历），非1628开局事实",
+    "source_1": {
+      "title": "《明史》卷261考证",
+      "locator": "卷二百六十一考证，刘之纶传“十一月四日，大清兵破遵化”条",
+      "url": "https://www.shidianguji.com/book/SK0735/chapter/1lc2ash4n0850",
+      "status": "已查在线转录，未核原版页码"
+    },
+    "source_2": {
+      "title": "《明史》卷261刘之纶传及本纪",
+      "locator": "卷261传与崇祯二年本纪；考证称以壬午朔、乙酉日推算",
+      "url": "https://zh.wikisource.org/zh-hans/明史/卷261",
+      "status": "同书内部材料；不能计算为第二独立史源"
+    },
+    "verification": "单一史籍内部异文校勘；双独立来源未达标",
+    "conflict": "传记日次“三日”与考证“四日”冲突；未独立复算历日",
+    "relations": [
+      "HP002"
+    ],
+    "new_id": null,
+    "game_impact": "不得将1629年遵化战事作为1628年开局已发生事件；事件条目如需增设先核既有ID"
+  },
+  {
+    "target_id": "HP001",
+    "target_name": "卢象升",
+    "operation": "新增年代归属核验警示；不改主库",
+    "claim": "《明史》卷261考证对卢象升传中“京师戒严”所指年份与边境入侵事件作解释；不得仅凭传记相邻段落推断其1628年官职。",
+    "time_scope": "1629年及后续经历；1628官职仍待核",
+    "source_1": {
+      "title": "《明史》卷261考证",
+      "locator": "卷二百六十一考证，卢象升传“京师戒严”条",
+      "url": "https://www.shidianguji.com/book/SK0735/chapter/1lc2ash4n0850",
+      "status": "在线文本直接载校勘，原版页码待核"
+    },
+    "source_2": null,
+    "verification": "单源提示，不构成已核定人物履历",
+    "conflict": "传记连续叙事可能造成年代误植；尚无双独立直接史料",
+    "relations": [
+      "HP001",
+      "F001"
+    ],
+    "new_id": null,
+    "game_impact": "维持1628任职、驻地和军事指挥权待核"
+  }
+]
