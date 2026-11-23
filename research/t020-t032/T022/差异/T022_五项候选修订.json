@@ -1,0 +1,32 @@
+[
+  {
+    "entity_id": "B06",
+    "issue": "基础造纸与印刷科技以T0表示，但未区分造纸、雕版、活字和区域工艺能力",
+    "suggestion": "增加工艺子类、地域调查、材料与工匠条件；不直接将T0视为各地普及",
+    "verification": "design_audit_only"
+  },
+  {
+    "entity_id": "E04",
+    "issue": "教材发行网络为能力型解锁，自由文本且未显式链接唯一实体",
+    "suggestion": "采用能力类型引用或建立经主任务批准的实体；不得凭名称生成ID",
+    "verification": "structural_only"
+  },
+  {
+    "entity_id": "C10",
+    "issue": "工业纸浆与机械印刷将两个工业过程合并，且沿用FAC-016印刷坊作设施前置",
+    "suggestion": "拆分纸浆生产与机械印刷工序的物料、动力、机器与厂房验收条件；标记架空推演",
+    "verification": "design_audit_only"
+  },
+  {
+    "entity_id": "PR26",
+    "issue": "生产配方requires仅E01，缺少E04作为可选或必需的业务规则说明",
+    "suggestion": "主任务确认教材印制与发行是否分离；不能直接增设E04前置",
+    "verification": "structural_only"
+  },
+  {
+    "entity_id": "PR27",
+    "issue": "工业印刷配方只需C10，设施文本仍为印刷坊，动力字段数值未指向可核实体",
+    "suggestion": "增加类型化设施与动力来源字段并与机械印刷机U-C10-01核对",
+    "verification": "structural_only"
+  }
+]

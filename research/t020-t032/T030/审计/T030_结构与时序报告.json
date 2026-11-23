@@ -1,0 +1,41 @@
+{
+  "run": "T030",
+  "baseline_version": "V0.2.60-candidate",
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "entity_count": 2476,
+  "geography_count": 1556,
+  "technology_count": 255,
+  "opening_T0_technology_count": 13,
+  "opening_T0_technology_with_later_Tiangong_Kaiwu_reference": 12,
+  "flag_ids": [
+    "B01",
+    "B02",
+    "B03",
+    "B04",
+    "B05",
+    "B06",
+    "B07",
+    "B08",
+    "B09",
+    "B10",
+    "B11",
+    "B12"
+  ],
+  "duplicate_id_count": 0,
+  "blank_name_count": 0,
+  "explicit_link_or_prerequisite_missing_count": 1,
+  "missing_examples": [
+    [
+      "H06",
+      "data.prerequisite",
+      "进口显微镜"
+    ]
+  ],
+  "candidate_new_ids": [],
+  "candidate_id_conflicts": 0,
+  "date_validity": "本轮仅检查T0节点引用1637年文献的证据时序；全库逐条年代核验未完成",
+  "new_strict_double_verified_facts": 0,
+  "master_modified": false,
+  "main_task_merged": false,
+  "independence_note": "本轮为来源时序审计，不将同一典籍的不同转述计作独立证据"
+}

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "B06",
+    "name": "造纸与印刷",
+    "category": "科技志",
+    "tag": "历史已有",
+    "date": "T0",
+    "links": [
+      "U-B06-01",
+      "U-B06-02",
+      "FAC-016"
+    ],
+    "references": [
+      {
+        "field": "unlocks",
+        "value": "传统印刷坊",
+        "candidate_ids": [
+          "U-B06-01"
+        ],
+        "resolution": "candidate_only"
+      },
+      {
+        "field": "unlocks",
+        "value": "纸张",
+        "candidate_ids": [
+          "U-B06-02"
+        ],
+        "resolution": "candidate_only"
+      },
+      {
+        "field": "facility",
+        "value": "印刷坊",
+        "candidate_ids": [
+          "FAC-016"
+        ],
+        "resolution": "free_text_not_id"
+      }
+    ]
+  },
+  {
+    "id": "E04",
+    "name": "低成本教材与印刷发行",
+    "category": "科技志",
+    "tag": "架空推演",
+    "date": "T2",
+    "links": [
+      "E01",
+      "B06",
+      "G02",
+      "U-E04-01",
+      "FAC-016"
+    ],
+    "references": [
+      {
+        "field": "all",
+        "value": "E01",
+        "exists": true
+      },
+      {
+        "field": "all",
+        "value": "B06",
+        "exists": true
+      },
+      {
+        "field": "all",
+        "value": "G02",
+        "exists": true
+      },
+      {
+        "field": "unlocks",
+        "value": "教材发行网络",
+        "candidate_ids": [
+          "U-E04-01"
+        ],
+        "resolution": "candidate_only"
+      },
+      {
+        "field": "facility",
+        "value": "印刷坊",
+        "candidate_ids": [
+          "FAC-016"
+        ],
+        "resolution": "free_text_not_id"
+      },
+      {
+        "field": "sample",
+        "value": "纸张",
+        "candidate_ids": [
+          "U-B06-02"
+        ],
+        "resolution": "free_text_not_id"
+      }
+    ]
+  },
+  {
+    "id": "C10",
+    "name": "工业纸浆与机械印刷",
+    "category": "科技志",
+    "tag": "架空推演",
+    "date": "T3",
+    "links": [
+      "E04",
+      "M06",
+      "M03",
+      "C01",
+      "U-C10-01",
+      "FAC-016"
+    ],
+    "references": [
+      {
+        "field": "all",
+        "value": "E04",
+        "exists": true
+      },
+      {
+        "field": "all",
+        "value": "M06",
+        "exists": true
+      },
+      {
+        "field": "all",
+        "value": "M03",
+        "exists": true
+      },
+      {
+        "field": "all",
+        "value": "C01",
+        "exists": true
+      },
+      {
+        "field": "unlocks",
+        "value": "机械印刷机",
+        "candidate_ids": [
+          "U-C10-01"
+        ],
+        "resolution": "candidate_only"
+      },
+      {
+        "field": "facility",
+        "value": "印刷坊",
+        "candidate_ids": [
+          "FAC-016"
+        ],
+        "resolution": "free_text_not_id"
+      },
+      {
+        "field": "sample",
+        "value": "木材",
+        "candidate_ids": [
+          "RES-015"
+        ],
+        "resolution": "free_text_not_id"
+      }
+    ]
+  },
+  {
+    "id": "U-B06-01",
+    "name": "传统印刷坊",
+    "category": "营造志",
+    "tag": "历史已有",
+    "date": "T0",
+    "links": [
+      "B06"
+    ],
+    "references": []
+  },
+  {
+    "id": "U-C10-01",
+    "name": "机械印刷机",
+    "category": "百工志",
+    "tag": "架空推演",
+    "date": "T3",
+    "links": [
+      "C10"
+    ],
+    "references": []
+  },
+  {
+    "id": "FAC-016",
+    "name": "印刷坊",
+    "category": "营造志",
+    "tag": "历史已有",
+    "date": "T0",
+    "links": [],
+    "references": []
+  },
+  {
+    "id": "PR26",
+    "name": "教材印刷",
+    "category": "食货志",
+    "tag": "架空推演",
+    "date": "",
+    "links": [
+      "E01",
+      "FAC-016",
+      "U-B06-02",
+      "RES-014"
+    ],
+    "references": [
+      {
+        "field": "requires",
+        "value": "E01",
+        "exists": true
+      },
+      {
+        "field": "facility",
+        "value": "印刷坊",
+        "candidate_ids": [
+          "FAC-016"
+        ],
+        "resolution": "free_text_not_id"
+      },
+      {
+        "field": "inputs",
+        "value": "纸张",
+        "candidate_ids": [
+          "U-B06-02"
+        ],
+        "resolution": "free_text_not_id"
+      },
+      {
+        "field": "output",
+        "value": "教材",
+        "candidate_ids": [
+          "RES-014"
+        ],
+        "resolution": "free_text_not_id"
+      }
+    ]
+  },
+  {
+    "id": "PR27",
+    "name": "工业印刷",
+    "category": "食货志",
+    "tag": "架空推演",
+    "date": "",
+    "links": [
+      "C10",
+      "FAC-016",
+      "U-B06-02",
+      "RES-008",
+      "RES-014"
+    ],
+    "references": [
+      {
+        "field": "requires",
+        "value": "C10",
+        "exists": true
+      },
+      {
+        "field": "facility",
+        "value": "印刷坊",
+        "candidate_ids": [
+          "FAC-016"
+        ],
+        "resolution": "free_text_not_id"
+      },
+      {
+        "field": "inputs",
+        "value": "纸张",
+        "candidate_ids": [
+          "U-B06-02"
+        ],
+        "resolution": "free_text_not_id"
+      },
+      {
+        "field": "inputs",
+        "value": "工具",
+        "candidate_ids": [
+          "RES-008"
+        ],
+        "resolution": "free_text_not_id"
+      },
+      {
+        "field": "output",
+        "value": "教材",
+        "candidate_ids": [
+          "RES-014"
+        ],
+        "resolution": "free_text_not_id"
+      }
+    ]
+  }
+]

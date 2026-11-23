@@ -1,0 +1,19 @@
+{
+  "baseline": "V0.2.60-candidate",
+  "entities": 2476,
+  "geography": 1556,
+  "duplicate_ids": [],
+  "broken_explicit_links": [],
+  "broken_count": 0,
+  "blank_names": [],
+  "candidate_id_conflicts": 0,
+  "existing_ids_confirmed": [
+    "BK001",
+    "EV007",
+    "P004"
+  ],
+  "time_validity": "1637出版事件不允许在1628默认已发生；其余2476条未完成逐事实年代验证",
+  "source_quality": "两个独立机构文本交叉，但未以两份独立原始史料完成严格逐事实核验",
+  "strict_new_primary_source_verified_facts": 0,
+  "baseline_unchanged": true
+}

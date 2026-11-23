@@ -1,0 +1,35 @@
+{
+  "package": "T021",
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "checked_at": "2026-11-21",
+  "scope": "255条科技节点的data.all/data.any前置项，结构审计，不是史实核验",
+  "statistics": {
+    "entities": 2476,
+    "geography": 1556,
+    "tech_nodes": 255,
+    "prerequisite_references": 618,
+    "unresolved_as_id": 1,
+    "nontech_id": 0,
+    "cycles": 0,
+    "duplicate_ids": 0,
+    "blank_names": 0
+  },
+  "findings": [
+    {
+      "source_id": "H06",
+      "source_name": "显微观察与实验诊断",
+      "field": "data.any",
+      "raw_value": "进口显微镜",
+      "matching_existing_entity_id": "EXT-001",
+      "matching_entity_name": "进口显微镜",
+      "matching_entity_category": "百工志",
+      "suggestion": "将前置项由自由文本改为类型化引用（如external_resource: EXT-001）；须核实游戏运行时是否支持非科技前置，不能直接替换为科技ID。",
+      "historical_status": "游戏架空技术前置；不能据此认定1628年存在可获得的进口显微镜",
+      "verification": "structural_only",
+      "conflict": "前置数组混用科技ID与实体名称；当前解析器若按ID查找将断链"
+    }
+  ],
+  "new_ids": [],
+  "new_historical_facts_verified": 0,
+  "status": "candidate_not_merged"
+}

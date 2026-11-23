@@ -1,0 +1,21 @@
+{
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "internal_version": "V0.2.60-candidate",
+  "entries": 2476,
+  "geography_count": 1556,
+  "duplicate_ids": 0,
+  "empty_names": [],
+  "explicit_link_missing_count": 0,
+  "explicit_link_missing_sample": [],
+  "target_ids_exist": true,
+  "candidate_new_ids": [],
+  "candidate_id_conflicts": [],
+  "same_name_newcounty_ids": [
+    "ADM-C0272",
+    "ADM-C0370"
+  ],
+  "new_strict_double_independent_verified_facts": 0,
+  "date_check": "万历时期记载早于1628，但持续使用至1628年无证；清代编修不可当明代同时代实录",
+  "scope_limitation": "仅检查显式links与候选ID，未对所有data内引用或全库历史事实进行逐条复核",
+  "merge_status": "未合并主库"
+}

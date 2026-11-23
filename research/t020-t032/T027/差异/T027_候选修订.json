@@ -1,0 +1,51 @@
+[
+  {
+    "proposal_key": "T027-C01",
+    "action": "修订T026-C01候选地理关联（不修改主库）",
+    "subject": "绍兴府志所载新昌水利个案的县级映射",
+    "target_ids": [
+      "ADM-C0272",
+      "ADM-P097",
+      "B01",
+      "U-B01-02"
+    ],
+    "excluded_homonym": "ADM-C0370",
+    "database_evidence": [
+      {
+        "id": "ADM-C0272",
+        "name": "新昌县",
+        "prefecture_id": "ADM-P097",
+        "qualifier": "绍兴府 · 浙江承宣布政使司"
+      },
+      {
+        "id": "ADM-C0370",
+        "name": "新昌县",
+        "prefecture_id": "ADM-P105",
+        "qualifier": "瑞州府 · 江西承宣布政使司"
+      },
+      {
+        "id": "ADM-P097",
+        "name": "绍兴府",
+        "region_id": "ADM-R09"
+      }
+    ],
+    "reason": "T026引文明确指向绍兴府志，现有库的县-府归属字段可唯一筛选ADM-C0272；这是库内消歧，不是对县治或工程的独立史料核验。",
+    "historical_claim_status": "待核：绍兴府志后出转引单链；万历原志及第二独立直接史料未取得",
+    "temporal_validity": "万历时期记载；1628年设施仍存及运行状态未知",
+    "game_inference": "可作为局部水利修浚事件候选，产能与运行状态不得自动赋值",
+    "conflict": "同名县不同府；库内映射可消歧但历史政区断代尚未双源核验",
+    "merge_status": "建议主任务审查后将T026-C01可能地理ID收敛为ADM-C0272，保留证据待核标志"
+  },
+  {
+    "proposal_key": "T027-C02",
+    "action": "新增同名地理映射校验规则（不新增实体ID）",
+    "subject": "地方史料地名消歧",
+    "target_ids": [
+      "ADM-C0272",
+      "ADM-C0370"
+    ],
+    "recommendation": "地名匹配必须同时满足县名、府名、布政使司和年代；不能按同名或现代地理坐标自动绑定。未满足时保持unresolved。",
+    "status": "数据库规则建议，非历史事实",
+    "merge_status": "待主任务审查"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "candidate_key": "T032-PRINT-01",
+    "operation": "revise_evidence_and_region_gate_only",
+    "target_id": "B06",
+    "name": "造纸与印刷",
+    "claim": "明代弘治年间无锡会通馆铜活字印书活动具有具体传世印本线索；尚不能据此认定1628年各地普及铜活字。",
+    "evidence": [
+      {
+        "type": "现代学术研究",
+        "author_or_institution": "中国人民大学清史研究所网站刊载的印刷史研究文章",
+        "url": "https://iqh.ruc.edu.cn/old/zglswxxyj/wx_xsyj/adbe0d9d6f79422185998039149b576c.htm",
+        "locator": "正文“除了木活字，还有铅活字和铜活字”段",
+        "supports": "华燧会通馆、华坚兰雪堂及弘治年间铜活字印本的文献线索",
+        "source_family": "近现代印刷史研究（非原始刻本）"
+      },
+      {
+        "type": "待核实物线索",
+        "work": "会通馆铜活字印本，如《锦绣万花谷》《容斋五笔》",
+        "locator": "应核对藏书机构馆藏号、版心牌记、书影与卷端刊记",
+        "supports": "若实物核实，可独立验证特定印本的年代、地点和工艺",
+        "source_family": "传世印本物证；本轮未直接取得"
+      }
+    ],
+    "independence_assessment": "仅核实一条研究资料线索；第二独立直接证据未取得，不达双证标准。",
+    "verification_status": "待双独立直接来源核验",
+    "historical_availability": "铜活字明代使用为有力待核候选，不升级严格双证",
+    "regional_prevalence": "仅无锡个案候选；其他地区未知",
+    "production_capacity": "未知",
+    "game_inference": "B06增铜活字工艺标签；设施生产必须通过地域工匠、字模、金属、纸墨与订单条件检查；不得赋予全图统一产能",
+    "linked_existing_ids": [
+      "B06",
+      "U-B06-01",
+      "FAC-016",
+      "E04",
+      "PR26"
+    ],
+    "date_validity": "弘治年间早于1628；是否在1628继续运行未知",
+    "conflicts": "现代二手文章中多个印本案例并不等于多个独立直接史料；印本版心“铜版”表述需与实际材质、工艺核对"
+  },
+  {
+    "candidate_key": "T032-PRINT-02",
+    "operation": "revise_game_prerequisite_only",
+    "target_id": "PR26",
+    "name": "教材印刷",
+    "claim": "教材印刷配方目前仅要求E01，而E04为教材印刷发行科技节点，需明确两者是否为基础配方与改良配方关系。",
+    "evidence_status": "数据库内部结构事实，不是历史史实",
+    "current_requires": [
+      "E01"
+    ],
+    "suggestion": "不直接改写前置；将PR26标为基础教材印刷，E04作为规模化发行或改良效率条件；设施FAC-016、纸张RES-014的关联另行验证",
+    "linked_existing_ids": [
+      "PR26",
+      "E01",
+      "E04",
+      "FAC-016",
+      "B06",
+      "RES-014"
+    ],
+    "verification_status": "策划待确认"
+  }
+]

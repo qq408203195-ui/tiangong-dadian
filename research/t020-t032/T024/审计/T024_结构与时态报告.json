@@ -1,0 +1,31 @@
+{
+  "scope": "T024 生产配方设施类型与解锁时态复核",
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "baseline_internal_version": "V0.2.60-candidate",
+  "entity_count": 2476,
+  "geo_count": 1556,
+  "categories": {
+    "人物志": 40,
+    "势力志": 16,
+    "地理志": 1556,
+    "纪事志": 17,
+    "兵制志": 96,
+    "政制志": 92,
+    "食货志": 129,
+    "武备志": 53,
+    "思潮志": 22,
+    "百工志": 43,
+    "科技志": 255,
+    "营造志": 157
+  },
+  "duplicate_ids": [],
+  "blank_names": [],
+  "missing_forward_targets": [],
+  "missing_backlink_targets": [],
+  "missing_forward_count": 0,
+  "missing_backlink_count": 0,
+  "candidate_id_collisions": "未新建ID",
+  "candidate_count": 4,
+  "new_strict_two_source_facts": 0,
+  "limitations": "只读结构审计；未完成1628年代史料考证；未合并主任务；无交互网页验收"
+}

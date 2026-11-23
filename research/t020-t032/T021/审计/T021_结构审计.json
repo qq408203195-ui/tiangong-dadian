@@ -1,0 +1,17 @@
+{
+  "check": "T021",
+  "id_duplicate": 0,
+  "empty_name": 0,
+  "all_any_missing_as_id": [
+    [
+      "H06",
+      "any",
+      "进口显微镜"
+    ]
+  ],
+  "all_any_nontech_id": [],
+  "all_any_self": [],
+  "all_any_malformed": [],
+  "graph_cycles": [],
+  "semantic_note": "EXT-001实体存在且名称精确匹配，属于类型不一致而非实体不存在。未全面审计所有其他关联字段和1628历史断代。"
+}

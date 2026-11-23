@@ -1,0 +1,81 @@
+{
+  "package": "T020",
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "type": "existing_entry_revision_proposal",
+  "existing_ids": [
+    "BK001",
+    "EV007",
+    "P004"
+  ],
+  "proposals": [
+    {
+      "id": "BK001",
+      "field": "historical_availability",
+      "proposal": {
+        "published_year": 1637,
+        "available_as_book_in_1628": false,
+        "technical_practices_1628": "逐项待考，不得据1637年刊本直接倒推",
+        "historical_vs_game": "玩家提前编纂属于架空推演"
+      }
+    },
+    {
+      "id": "EV007",
+      "field": "date_and_trigger",
+      "proposal": {
+        "event_year": 1637,
+        "start_year_1628": "尚未发生",
+        "game_trigger": "未来事件或玩家提前出版的架空分支"
+      }
+    },
+    {
+      "id": "P004",
+      "field": "knowledge_unlock",
+      "proposal": {
+        "in_1628": "不得默认携带已刊《天工开物》",
+        "research_mechanic": "实地调查、工艺试验、书籍编纂分开解锁，纯游戏建议"
+      }
+    }
+  ],
+  "claims": [
+    {
+      "claim": "《天工开物》初刊于崇祯十年（1637年）",
+      "scope": "典籍刊行时间，不代表其中工艺始于1637年",
+      "evidence": [
+        {
+          "institution": "中国国家博物馆",
+          "title": "《天工开物》",
+          "url": "https://www.chnmuseum.cn/zp/zpml/gjwxbt/202203/t20220301_254061.shtml",
+          "locator": "藏品介绍正文首段，初刊于崇祯十年",
+          "access": "2026-11-21网页检索正文"
+        },
+        {
+          "institution": "中国国家图书馆",
+          "title": "Ancient Books Preservation and Conservation",
+          "url": "https://www.nlc.cn/pcab/ztzl/csb/2021/202211/P020221130456490928784.pdf",
+          "locator": "版本与流传小节，崇祯十年出版及涂本说明",
+          "access": "2026-11-21 PDF检索摘要"
+        }
+      ],
+      "verification": "双机构独立叙述相符；未逐页核验原刊影像，限定为出版年代的二级文献交叉核验"
+    },
+    {
+      "claim": "《天工开物》记录农业、手工业多种工序和器具",
+      "scope": "1637年文本的记述范围，不等于1628年全国各地实装和普及",
+      "evidence": [
+        {
+          "institution": "中国国家博物馆",
+          "url": "https://www.chnmuseum.cn/zp/zpml/gjwxbt/202203/t20220301_254061.shtml",
+          "locator": "藏品介绍正文及图版说明"
+        },
+        {
+          "institution": "安徽师范大学图书馆",
+          "url": "https://lib1.ahnu.edu.cn/info/1009/11065.htm",
+          "locator": "《明本天工开物》馆藏介绍，内容简介"
+        }
+      ],
+      "verification": "仅支持文本范围，不支持各工艺的具体年代和普及度"
+    }
+  ],
+  "conflict_note": "原有部分资料对成书/刊行年份表述不同；本轮仅确认初刊1637，具体成书年月另列待决。不同机构可能共享通行书目知识，尚未证成史料原始独立性。",
+  "tech_tree_links": "仅建议通过现有BK001、EV007、P004建立知识传播与事件前置；未写入科技节点或猜测ID"
+}

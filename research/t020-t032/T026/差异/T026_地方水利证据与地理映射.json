@@ -1,0 +1,53 @@
+[
+  {
+    "proposal_key": "T026-C01",
+    "action": "新增地方水利工程个案证据（不分配实体ID）",
+    "subject": "新昌县万历年间水利修筑与修浚记载",
+    "target_ids": [
+      "B01",
+      "U-B01-02",
+      "ADM-P097"
+    ],
+    "possible_geography_ids": [
+      "ADM-C0272",
+      "ADM-C0370"
+    ],
+    "geography_link_status": "两个新昌县同名实体并存，须核对行政层级及空间指向后才能选定；不得自动绑定",
+    "evidence": [
+      {
+        "work": "绍兴府志",
+        "editor": "李亨特修、平恕纂（清代后修）",
+        "locator": "水利志相关条，后溪堤、孝行佛（网页转写字形有误，须核对影印原页）",
+        "url": "https://www.shidianguji.com/mid-page/7443923777634992178",
+        "date_of_source": "清代编纂；条文自称引万历志",
+        "directly_supported_scope": "后出府志保存称万历年间新昌修堤、疏浚、筑堰、设闸的记载",
+        "independence_group": "绍兴府志转引万历志（单一传承链）",
+        "status": "已定位转写文本，原刻本页码和原万历志未核"
+      }
+    ],
+    "independent_source_count": 1,
+    "strict_verification": "未通过：缺第二独立直接史料；原刻影像待核",
+    "time_scope": "记载指明代万历时期，是否持续运作至1628年未证",
+    "distinctions": {
+      "technology": "地方志涉及堤、堰、闸、渠道的修筑维护",
+      "actual_use": "仅证明文献记载具体地方工程，运行与维护至1628年待核",
+      "geography": "新昌县个案，不能外推全国",
+      "game": "可设计水源、堰闸、修浚劳役、分水纠纷等机制，全部标注架空推演"
+    },
+    "conflict": "网页转写中砩、佛、砽等字可能为OCR或异体误写，禁止将转写字形直接作为明代正式工程名称",
+    "merge_status": "待证，不合并"
+  },
+  {
+    "proposal_key": "T026-C02",
+    "action": "修订地理映射规则（结构候选）",
+    "subject": "新昌县同名地理实体歧义",
+    "target_ids": [
+      "ADM-C0272",
+      "ADM-C0370"
+    ],
+    "evidence": [],
+    "strict_verification": "结构事实：数据库中同名不同ID；未核验历史行政沿革",
+    "recommendation": "保留两原ID；检查所属府、坐标及层级后方可连接地方水利事件",
+    "merge_status": "待主任务审查"
+  }
+]

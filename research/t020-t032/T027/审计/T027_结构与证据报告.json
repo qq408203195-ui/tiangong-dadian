@@ -1,0 +1,19 @@
+{
+  "run": "T027",
+  "baseline_file": "T026/只读基线/完整数据库.json",
+  "baseline_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "meta_version": "V0.2.60-candidate",
+  "entity_count": 2476,
+  "geography_count": 1556,
+  "duplicate_ids": [],
+  "empty_names": [],
+  "missing_explicit_links": [],
+  "candidate_ids_created": 0,
+  "target_ids_present": true,
+  "historical_double_independent_verified_added": 0,
+  "chronology": "候选明确标注万历时期与1628适用性待核；未开展全库日期语义审计",
+  "source_independence": "沿用T026单条清代府志转引线索，不升级为双源核验",
+  "main_database_modified": false,
+  "integrated_to_main": false,
+  "limitations": "未取得万历原志及第二独立直接史料；本轮只解决库内府县映射，未验证地方水利设施的1628年实况"
+}

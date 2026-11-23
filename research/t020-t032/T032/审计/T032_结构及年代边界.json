@@ -1,0 +1,14 @@
+{
+  "baseline_version": "V0.2.60-candidate",
+  "sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "entries": 2476,
+  "geography_entries": 1556,
+  "duplicate_ids": {},
+  "blank_names": [],
+  "missing_explicit_links": [],
+  "missing_explicit_links_total": 0,
+  "candidate_targets_all_exist": true,
+  "candidate_new_ids": [],
+  "date_validity": "本轮仅核查所列候选历史年代；未进行全库年代有效性核验",
+  "baseline_unchanged": true
+}
