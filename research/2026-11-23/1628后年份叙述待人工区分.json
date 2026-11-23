@@ -1,0 +1,234 @@
+[
+  {
+    "id": "P002",
+    "name": "皇太极",
+    "category": "人物志",
+    "years_after_1628": [
+      1636
+    ],
+    "excerpt": "努尔哈赤之子，1626年继承汗位，1628年统治金国。1636年称帝并定国号为大清。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "P003",
+    "name": "徐光启",
+    "category": "人物志",
+    "years_after_1628": [
+      1633
+    ],
+    "excerpt": "徐光启（1562—1633），字子先，松江府上海县人，曾与利玛窦合作译介数学及西方科学知识，著有《农政全书》。1607年《几何原本》前六卷汉译完成，崇祯朝后来主持历法改革。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "P004",
+    "name": "宋应星",
+    "category": "人物志",
+    "years_after_1628": [
+      1637
+    ],
+    "excerpt": "宋应星，江西奉新县人，明代科技著作《天工开物》的作者，曾调查记录农业及手工业生产经验。该书于1637年初刊；卒年不在本次核定范围内。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "P005",
+    "name": "袁崇焕",
+    "category": "人物志",
+    "years_after_1628": [
+      1630
+    ],
+    "excerpt": "明末辽东统帅，主张依托关外城镇防守。1626年宁远之战获胜，1628年重新受到朝廷任用，1630年被处死。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "P007",
+    "name": "郑芝龙",
+    "category": "人物志",
+    "years_after_1628": [
+      1629
+    ],
+    "excerpt": "活跃于东亚海上贸易及武装海商网络。崇祯初年受明廷招抚，转入海防体系。公开资料对招抚具体年份有1628、1629等不同记法。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "P008",
+    "name": "郑成功",
+    "category": "人物志",
+    "years_after_1628": [
+      1661,
+      1662
+    ],
+    "excerpt": "郑芝龙之子，出生于日本平户。1628年尚是幼童，成年后参与抗清并于1661—1662年驱逐台湾荷兰殖民当局。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "P009",
+    "name": "李自成",
+    "category": "人物志",
+    "years_after_1628": [
+      1644
+    ],
+    "excerpt": "明末农民军领袖，1644年在西安建立大顺政权并攻入北京。1628年不应具有后来大顺皇帝的身份。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "F001",
+    "name": "大明",
+    "category": "势力志",
+    "years_after_1628": [
+      1644
+    ],
+    "excerpt": "明朝开局仍拥有成熟的中央、地方官僚机构与广泛的农业、商贸和手工业基础。财政和边防困难日益加剧，1644年北京政权覆亡，南方仍出现延续政权。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "F002",
+    "name": "金国",
+    "category": "势力志",
+    "years_after_1628": [
+      1636
+    ],
+    "excerpt": "努尔哈赤建立的金政权，1628年由皇太极统治。历史上通称后金，现存1636年称帝前的外交文书载金国；1636年改国号大清。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "F011",
+    "name": "大顺",
+    "category": "势力志",
+    "years_after_1628": [
+      1644
+    ],
+    "excerpt": "李自成建立的政权，1644年攻入北京；1628年尚未成立。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "F013",
+    "name": "大清",
+    "category": "势力志",
+    "years_after_1628": [
+      1636
+    ],
+    "excerpt": "皇太极于1636年称帝后定国号大清。1628开局时尚未使用此国号。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "EV006",
+    "name": "皇太极称帝改国号",
+    "category": "纪事志",
+    "years_after_1628": [
+      1636
+    ],
+    "excerpt": "1636年，皇太极即皇帝位，定国号大清，改元崇德。此前已有金国称帝的劝进交涉。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "EV007",
+    "name": "《天工开物》刊行",
+    "category": "纪事志",
+    "years_after_1628": [
+      1637
+    ],
+    "excerpt": "崇祯十年（1637），宋应星《天工开物》初次刊行。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "EV009",
+    "name": "甲申之变",
+    "category": "纪事志",
+    "years_after_1628": [
+      1644
+    ],
+    "excerpt": "1644年李自成军攻入北京，朱由检自缢；随后清军入关，政局重组。游戏中不强制发生。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "EV012",
+    "name": "郑成功收复台湾",
+    "category": "纪事志",
+    "years_after_1628": [
+      1662
+    ],
+    "excerpt": "郑成功率军进入台湾，荷兰殖民当局于1662年投降。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "BK001",
+    "name": "《天工开物》",
+    "category": "纪事志",
+    "years_after_1628": [
+      1637
+    ],
+    "excerpt": "宋应星所著《天工开物》初刊于崇祯十年（1637），记述农业与手工业工艺。不能作为1628年当地已刊行的书籍。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "MACH001",
+    "name": "纽科门蒸汽机",
+    "category": "百工志",
+    "years_after_1628": [
+      1712,
+      1791
+    ],
+    "excerpt": "纽科门式大气蒸汽机由托马斯·纽科门于1712年发展，用于矿井排水。英国科学博物馆存有1791年制造的后期实例；馆藏器物年代不等于发明年代。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "MACH002",
+    "name": "瓦特式旋转蒸汽机",
+    "category": "百工志",
+    "years_after_1628": [
+      1788
+    ],
+    "excerpt": "瓦特对早期蒸汽机做出改进，旋转动力机用于驱动工业机械。英国科学博物馆藏有1788年实例。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "P014",
+    "name": "徐霞客",
+    "category": "人物志",
+    "years_after_1628": [
+      1641
+    ],
+    "excerpt": "徐弘祖（1587—1641），字振之，号霞客，南直隶江阴人。以旅行实地考察记录地理、地貌和水文；后世整理成果称《徐霞客游记》。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "P017",
+    "name": "德川家光",
+    "category": "人物志",
+    "years_after_1628": [
+      1651
+    ],
+    "excerpt": "日本江户幕府第三代将军，1604—1651年。1628年属于其在任时期；具体贸易限制与政策时间需要查日本史资料。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "U-P04-01",
+    "name": "旋转蒸汽动力机",
+    "category": "百工志",
+    "years_after_1628": [
+      1788
+    ],
+    "excerpt": "18世纪后期旋转式蒸汽动力机用于带动机械；英国科学博物馆藏有1788年瓦特式实例。游戏可提前构建工厂动力。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "U-MI04-01",
+    "name": "制式燧发枪",
+    "category": "武备志",
+    "years_after_1628": [
+      1838
+    ],
+    "excerpt": "燧发式火器在近代欧洲军队长期使用。英国陆军博物馆约1838年的藏品说明，击发式武器出现后燧发枪仍在列装，技术更新不是即时替换。",
+    "status": "manual_review_not_error"
+  },
+  {
+    "id": "U-MI09-01",
+    "name": "后装步枪",
+    "category": "武备志",
+    "years_after_1628": [
+      1780
+    ],
+    "excerpt": "后装式枪械在近代经历多种技术路线；英国国家陆军博物馆藏有约1780年弗格森后装枪。游戏的单发后装步枪是抽象装备等级，不代表某一具体型号。",
+    "status": "manual_review_not_error"
+  }
+]

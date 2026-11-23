@@ -1,0 +1,38 @@
+[
+  {
+    "id": "P008",
+    "name": "郑成功",
+    "birth_year_existing_unverified": 1624,
+    "death_year_existing_unverified": 1662,
+    "age_1628_arithmetic": 4,
+    "gate": "minor_candidate",
+    "note": "仅根据继承字段计算，尚需独立史料核定；排除在位年误作生卒年及虚构角色"
+  },
+  {
+    "id": "P010",
+    "name": "努尔哈赤",
+    "birth_year_existing_unverified": 1559,
+    "death_year_existing_unverified": 1626,
+    "age_1628_arithmetic": 69,
+    "gate": "deceased_candidate",
+    "note": "仅根据继承字段计算，尚需独立史料核定；排除在位年误作生卒年及虚构角色"
+  },
+  {
+    "id": "P018",
+    "name": "顾炎武",
+    "birth_year_existing_unverified": 1613,
+    "death_year_existing_unverified": 1682,
+    "age_1628_arithmetic": 15,
+    "gate": "minor_candidate",
+    "note": "仅根据继承字段计算，尚需独立史料核定；排除在位年误作生卒年及虚构角色"
+  },
+  {
+    "id": "P020",
+    "name": "方以智",
+    "birth_year_existing_unverified": 1611,
+    "death_year_existing_unverified": 1671,
+    "age_1628_arithmetic": 17,
+    "gate": "minor_candidate",
+    "note": "仅根据继承字段计算，尚需独立史料核定；排除在位年误作生卒年及虚构角色"
+  }
+]

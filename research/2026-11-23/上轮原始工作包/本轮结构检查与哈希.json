@@ -1,0 +1,30 @@
+{
+  "entry_count": 2476,
+  "geography_count": 1556,
+  "category_counts": {
+    "人物志": 40,
+    "势力志": 16,
+    "地理志": 1556,
+    "纪事志": 17,
+    "兵制志": 96,
+    "政制志": 92,
+    "食货志": 129,
+    "武备志": 53,
+    "思潮志": 22,
+    "百工志": 43,
+    "科技志": 255,
+    "营造志": 157
+  },
+  "duplicate_ids": 0,
+  "empty_names": 0,
+  "broken_explicit_links": [],
+  "original_database_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "unchanged_original": true,
+  "historical_new_strict_verified_claims": 0,
+  "screening_counts": {
+    "unresolved_or_adult_candidate": 36,
+    "minor_candidate": 2,
+    "deceased_preopening_candidate": 1,
+    "fictional_not_historical": 1
+  }
+}

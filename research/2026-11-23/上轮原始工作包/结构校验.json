@@ -1,0 +1,34 @@
+{
+  "base_version": "V0.2.60-candidate",
+  "base_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "entries": 2476,
+  "geography": 1556,
+  "people": 40,
+  "categories": {
+    "人物志": 40,
+    "势力志": 16,
+    "地理志": 1556,
+    "纪事志": 17,
+    "兵制志": 96,
+    "政制志": 92,
+    "食货志": 129,
+    "武备志": 53,
+    "思潮志": 22,
+    "百工志": 43,
+    "科技志": 255,
+    "营造志": 157
+  },
+  "person_sentence_candidates": 59,
+  "person_chronology_flags": 10,
+  "duplicate_ids": 0,
+  "blank_names": [],
+  "broken_forward_links": [],
+  "reverse_date_candidates": [],
+  "new_independently_verified_facts": 0,
+  "limitations": [
+    "继承文本的年份与人物身份尚未逐事实复核",
+    "生卒年字段的年份可能包含在位年或模糊区间；抽取结果仅供采编",
+    "原数据库和离线页面原样保留；侧车不自动写回主库",
+    "网页未重新进行浏览器端交互测试"
+  ]
+}

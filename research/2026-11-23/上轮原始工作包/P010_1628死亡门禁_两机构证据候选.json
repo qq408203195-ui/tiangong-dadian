@@ -1,0 +1,33 @@
+{
+  "entity_id": "P010",
+  "name": "努尔哈赤",
+  "claim": "努尔哈赤于1626年去世，1628年开局不能作为在世人物或可任命将领",
+  "opening_year": 1628,
+  "death_year": 1626,
+  "opening_alive": false,
+  "evidence_status": "two_institutional_secondary_sources_agree_original_source_independence_unverified",
+  "sources": [
+    {
+      "institution": "故宫博物院",
+      "title": "努尔哈赤",
+      "url": "https://www.dpm.org.cn/court/lineage/226250.html",
+      "locator": "人物介绍页，标题下在位年份1616—1626及正文生平",
+      "independence": "institutional summary, primary source chain unverified"
+    },
+    {
+      "institution": "沈阳故宫博物院",
+      "title": "宫廷人物",
+      "url": "https://www.sypm.org.cn/shjy_4/5.html",
+      "locator": "努尔哈赤人物段落",
+      "independence": "separate institution; underlying historiography not traced"
+    }
+  ],
+  "game_design_not_historical_fact": {
+    "opening_roster": "exclude_living_recruitable",
+    "encyclopedia": "retain as deceased historical figure",
+    "historical_events": "allow pre-1628 retrospective events only",
+    "succession": "P002皇太极1628统治状态须另核验，不能凭此推定全部官职与政体"
+  },
+  "database_change": "none; candidate sidecar only",
+  "outstanding": "对读《满文老档》《清太祖实录》1626年八月条并核对版本、独立性和准确日期"
+}

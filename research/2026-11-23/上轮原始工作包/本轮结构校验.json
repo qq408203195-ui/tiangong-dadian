@@ -1,0 +1,14 @@
+{
+  "source_zip": "天工大典_人物志史实候选提取与1628断代_20261123.zip",
+  "source_sha256": "565a691c2d9febdd9fbcfcb9a62f9bdd52468e48a355d43b1d6fe1f492a406ef",
+  "main_database_sha256": "3375ed995969c4c68b8a19f621ca31af2381a732dc51fabb6646393a8924db52",
+  "entries": 2476,
+  "geo": 1556,
+  "duplicate_ids": 0,
+  "blank_names": [],
+  "broken_forward_links": [],
+  "age_candidates": 4,
+  "strict_new_two_independent_primary_facts": 0,
+  "webpage_preserved": true,
+  "note": "本轮未覆盖主库；只增加可追溯研究侧车；来源独立性未完成原始文献审计"
+}
